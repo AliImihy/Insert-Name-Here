@@ -22,7 +22,7 @@ We design a text-based game called Impostor. In each round:
 3. One player (the impostor) receives a slightly different but semantically
 related Question B.
 4. All answers are revealed.
-5. A judge or the non-impostor players must identify the impostor. \
+5. A judge or the non-impostor players must identify the impostor. 
 
 
 Example:
