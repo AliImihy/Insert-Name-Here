@@ -23,6 +23,8 @@ We design a text-based game called Impostor. In each round:
 related Question B.
 4. All answers are revealed.
 5. A judge or the non-impostor players must identify the impostor. \
+
+
 Example:
 * Q1: Name a tropical fruit.
 * Q2: Name a citrus fruit.
