@@ -35,10 +35,10 @@ The impostor succeeds if the judge fails to correctly identify them. Our main
 research question is:
 Does preference-based alignment (DPO) produce more convincing
 impostor behavior than supervised fine-tuning (SFT)?
-We compare three models:
-• A base pretrained LLM (zero-shot prompting)
-• An SFT model trained on impostor-style responses
-• A DPO-aligned model trained with preference pairs
+We compare three models: \
+* A base pretrained LLM (zero-shot prompting)
+* An SFT model trained on impostor-style responses
+* A DPO-aligned model trained with preference pairs
 The evaluation will be performed by simulating multiple game rounds and
 measuring how often the impostor is not identified. A separate model (LLM-asa-judge) reviews all four answers and predicts the impostor to provide consistent
 large-scale evaluation.
