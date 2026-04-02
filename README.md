@@ -1,5 +1,5 @@
 # Insert-Name-Here
-CSCI 5541 Group Repository for Team Insert Name Here 
+CSCI 5541 Group Repository for Team Insert Name Here \
 Team Members: Korra Ringgenberg, Sergio Moya, Ryan Vu, Ali Imihy
 
 
