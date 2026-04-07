@@ -1,0 +1,67 @@
+I'm building a dataset for an NLP research project on a semantic deduction game called "Impostor." In the game, players are given a category prompt and must name something in that category. Three players get Q1, one impostor gets a related but different Q2. The impostor tries to give an answer that could plausibly fit both categories to blend in.
+
+I need you to generate category pairs (Q1 and Q2) along with lists of valid answers for each. The pairs must have specific structural properties for the game to work.
+
+Requirements for each pair:
+
+
+
+Q1 and Q2 must be semantically related but distinct categories
+
+Each category needs at least 15 answers that a typical person would name if asked
+
+There must be at least 2 "bridge" answers that validly belong to BOTH categories (these are what a good impostor would say)
+
+There must be at least 3 answers unique to Q1 and at least 3 unique to Q2
+
+Q2 should NOT be a strict subset of Q1 (e.g., avoid "animal" / "farm animal" where every Q2 answer is also a Q1 answer)
+
+Answers should be common, concrete single words or short phrases (under 3 words), all lowercase
+
+Examples of good pairs from my existing dataset:
+
+Pair 1:
+
+Q1: "green vegetable"
+
+Q2: "vegetable"
+
+Q1 answers: broccoli, peas, lettuce, cucumber, spinach, green pepper, cabbage, courgette, kale, green beans, celery, brussels sprouts, beans, peppers, spring onions
+
+Q2 answers: carrot, broccoli, cabbage, parsnips, lettuce, cauliflower, peas, aubergine, spinach, cucumber, onion, pepper, potato, swede, brussels sprouts, turnip, green beans, tomato, beetroot, courgette
+
+Pair 2:
+
+Q1: "bird"
+
+Q2: "water bird"
+
+Q1 answers: pigeon, duck, robin, eagle, seagull, parrot, crow, blackbird, raven, owl, hawk, dove, canary, swan, flamingo, penguin, sparrow, goose, chicken, ostrich, woodpecker, turkey, hummingbird, toucan, vulture
+
+Q2 answers: duck, swan, penguin, goose, pelican, flamingo, heron, seagull, kingfisher, stork, puffin
+
+Pair 3:
+
+Q1: "herb"
+
+Q2: "spice"
+
+Q1 answers: rosemary, thyme, basil, oregano, parsley, coriander, mint, sage, dill, pepper, garlic, lavender, cinnamon
+
+Q2 answers: paprika, cumin, pepper, chilli, cinnamon, five spice, ginger, coriander, chilli powder, nutmeg, mixed spice, oregano, mint
+
+Your task: Generate 20 new pairs following this exact format. Aim for diverse domains (food, animals, objects, nature, activities, places, etc.). Avoid duplicating the example pairs above. Focus on pairs where the bridge words aren't completely obvious — the game is more interesting when a few answers could plausibly belong to both.
+
+Return the output as valid JSON in this exact schema:
+
+
+
+
+
+json
+
+
+
+[ { "q1_category": "...", "q2_category": "...", "q1_answers": ["...", "...", ...], "q2_answers": ["...", "...", ...] }, ...]
+
+No commentary, no markdown code fences around the JSON, just the raw JSON array.
