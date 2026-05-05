@@ -1,0 +1,1161 @@
+q1,q2,generated_impostor_answer,generated_impostor_raw,impostor_answer_type,judge_choice,judge_raw_output,judge_valid_output,judge_correct,impostor_success,pair_index,round_num
+animal,bird,owl,owl,q2_only,yes,yes,True,False,True,0,0
+animal,bird,crow,crow,q2_only,yes,yes,True,False,True,0,1
+animal,bird,owl,owl,q2_only,yes,yes,True,False,True,0,2
+animal,bird,owl,owl,q2_only,yes,yes,True,False,True,0,3
+animal,bird,owl,owl,q2_only,yes,yes,True,False,True,0,4
+animal,bird,owl,owl,q2_only,yes,yes,True,False,True,0,5
+animal,bird,owl,owl,q2_only,yes,yes,True,False,True,0,6
+animal,bird,owl,owl,q2_only,yes,yes,True,False,True,0,7
+animal,bird,owl,owl,q2_only,yes,yes,True,False,True,0,8
+animal,bird,owl,owl,q2_only,yes,yes,True,False,True,0,9
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,0
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,1
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,2
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,3
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,4
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,5
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,6
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,7
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,8
+animal,farm animal,pig,pig,shared,yes,yes,True,True,True,1,9
+animal,meat,lamb,lamb,q2_only,yes,yes,True,False,True,2,0
+animal,meat,lamb,lamb,q2_only,yes,yes,True,False,True,2,1
+animal,meat,lamb,lamb,q2_only,yes,yes,True,False,True,2,2
+animal,meat,lamb,lamb,q2_only,yes,yes,True,False,True,2,3
+animal,meat,pork,pork,q2_only,no,no,True,True,False,2,4
+animal,meat,lamb,lamb,q2_only,yes,yes,True,False,True,2,5
+animal,meat,lamb,lamb,q2_only,yes,yes,True,False,True,2,6
+animal,meat,lamb,lamb,q2_only,yes,yes,True,False,True,2,7
+animal,meat,bacon,bacon,q2_only,no,no,True,True,False,2,8
+animal,meat,lamb,lamb,q2_only,yes,yes,True,False,True,2,9
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,0
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,1
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,2
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,3
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,4
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,5
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,6
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,7
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,8
+animal,water bird,heron,heron,q2_only,yes,yes,True,False,True,3,9
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,0
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,1
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,2
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,3
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,4
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,5
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,6
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,7
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,8
+bathroom fixture,living room furniture,sofa,sofa,q2_only,no,no,True,True,False,4,9
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,0
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,1
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,2
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,3
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,4
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,5
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,6
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,7
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,8
+bird,bird of prey,eagle,eagle,shared,yes,yes,True,True,True,5,9
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,0
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,1
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,2
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,3
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,4
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,5
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,6
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,7
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,8
+bird,farm animal,pig,pig,q2_only,no,no,True,True,False,6,9
+bird,meat,ham,ham,q2_only,no,no,True,True,False,7,0
+bird,meat,ham,ham,q2_only,no,no,True,True,False,7,1
+bird,meat,ham,ham,q2_only,no,no,True,True,False,7,2
+bird,meat,bacon,bacon,q2_only,no,no,True,True,False,7,3
+bird,meat,ham,ham,q2_only,no,no,True,True,False,7,4
+bird,meat,bacon,bacon,q2_only,no,no,True,True,False,7,5
+bird,meat,ham,ham,q2_only,no,no,True,True,False,7,6
+bird,meat,bacon,bacon,q2_only,no,no,True,True,False,7,7
+bird,meat,bacon,bacon,q2_only,no,no,True,True,False,7,8
+bird,meat,bacon,bacon,q2_only,no,no,True,True,False,7,9
+bird,water bird,loon,loon,invalid,yes,yes,True,False,True,8,0
+bird,water bird,loon,loon,invalid,yes,yes,True,False,True,8,1
+bird,water bird,heron,heron,q2_only,yes,yes,True,False,True,8,2
+bird,water bird,heron,heron,q2_only,yes,yes,True,False,True,8,3
+bird,water bird,loon,loon,invalid,yes,yes,True,False,True,8,4
+bird,water bird,loon,loon,invalid,yes,yes,True,False,True,8,5
+bird,water bird,loon,loon,invalid,yes,yes,True,False,True,8,6
+bird,water bird,loon,loon,invalid,yes,yes,True,False,True,8,7
+bird,water bird,loon,loon,invalid,yes,yes,True,False,True,8,8
+bird,water bird,heron,heron,q2_only,yes,yes,True,False,True,8,9
+body of water,natural landform,mountain,mountain,q2_only,no,no,True,True,False,9,0
+body of water,natural landform,peak,peak,invalid,no,no,True,True,False,9,1
+body of water,natural landform,mountain,mountain,q2_only,no,no,True,True,False,9,2
+body of water,natural landform,mountain,mountain,q2_only,no,no,True,True,False,9,3
+body of water,natural landform,mountain,mountain,q2_only,no,no,True,True,False,9,4
+body of water,natural landform,mountain,mountain,q2_only,no,no,True,True,False,9,5
+body of water,natural landform,mountain,mountain,q2_only,no,no,True,True,False,9,6
+body of water,natural landform,hill,hill,q2_only,no,no,True,True,False,9,7
+body of water,natural landform,hill,hill,q2_only,no,no,True,True,False,9,8
+body of water,natural landform,hill,hill,q2_only,no,no,True,True,False,9,9
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,0
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,1
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,2
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,3
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,4
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,5
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,6
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,7
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,8
+building,human dwelling,house,house,shared,yes,yes,True,True,True,10,9
+building,religious building,church,church,shared,yes,yes,True,True,True,11,0
+building,religious building,church,church,shared,yes,yes,True,True,True,11,1
+building,religious building,church,church,shared,yes,yes,True,True,True,11,2
+building,religious building,church,church,shared,yes,yes,True,True,True,11,3
+building,religious building,church,church,shared,yes,yes,True,True,True,11,4
+building,religious building,church,church,shared,yes,yes,True,True,True,11,5
+building,religious building,church,church,shared,yes,yes,True,True,True,11,6
+building,religious building,church,church,shared,yes,yes,True,True,True,11,7
+building,religious building,church,church,shared,yes,yes,True,True,True,11,8
+building,religious building,church,church,shared,yes,yes,True,True,True,11,9
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,0
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,1
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,2
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,3
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,4
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,5
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,6
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,7
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,8
+building material,carpenter's tool,hammer,hammer,shared,no,no,True,False,False,12,9
+building material,part of a building,wall,wall,q2_only,no,no,True,True,False,13,0
+building material,part of a building,wall,wall,q2_only,no,no,True,True,False,13,1
+building material,part of a building,window,window,q2_only,no,no,True,True,False,13,2
+building material,part of a building,window,window,q2_only,no,no,True,True,False,13,3
+building material,part of a building,wall,wall,q2_only,no,no,True,True,False,13,4
+building material,part of a building,wall,wall,q2_only,no,no,True,True,False,13,5
+building material,part of a building,wall,wall,q2_only,no,no,True,True,False,13,6
+building material,part of a building,wall,wall,q2_only,no,no,True,True,False,13,7
+building material,part of a building,wall,wall,q2_only,no,no,True,True,False,13,8
+building material,part of a building,wall,wall,q2_only,no,no,True,True,False,13,9
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,0
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,1
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,2
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,3
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,4
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,5
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,6
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,7
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,8
+building material,tool,hammer,hammer,shared,no,no,True,False,False,14,9
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,0
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,1
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,2
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,3
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,4
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,5
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,6
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,7
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,8
+carpenter's tool,gardening tool,pruning shears,pruning shears,invalid,no,no,True,True,False,15,9
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,0
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,1
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,2
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,3
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,4
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,5
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,6
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,7
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,8
+carpenter's tool,tool,hammer,hammer,shared,yes,yes,True,True,True,16,9
+carpenter's tool,weapon,sword,sword,q2_only,no,no,True,True,False,17,0
+carpenter's tool,weapon,sword,sword,q2_only,no,no,True,True,False,17,1
+carpenter's tool,weapon,spear,spear,q2_only,no,no,True,True,False,17,2
+carpenter's tool,weapon,sword,sword,q2_only,no,no,True,True,False,17,3
+carpenter's tool,weapon,sword,sword,q2_only,no,no,True,True,False,17,4
+carpenter's tool,weapon,sword,sword,q2_only,no,no,True,True,False,17,5
+carpenter's tool,weapon,sword,sword,q2_only,no,no,True,True,False,17,6
+carpenter's tool,weapon,sword,sword,q2_only,no,no,True,True,False,17,7
+carpenter's tool,weapon,knife,knife,shared,no,no,True,False,False,17,8
+carpenter's tool,weapon,spear,spear,q2_only,no,no,True,True,False,17,9
+chemical element,metal,copper,copper,shared,yes,yes,True,True,True,18,0
+chemical element,metal,copper,copper,shared,yes,yes,True,True,True,18,1
+chemical element,metal,copper,copper,shared,yes,yes,True,True,True,18,2
+chemical element,metal,copper,copper,shared,yes,yes,True,True,True,18,3
+chemical element,metal,copper,copper,shared,yes,yes,True,True,True,18,4
+chemical element,metal,steel,steel,q2_only,no,no,True,True,False,18,5
+chemical element,metal,copper,copper,shared,yes,yes,True,True,True,18,6
+chemical element,metal,steel,steel,q2_only,no,no,True,True,False,18,7
+chemical element,metal,steel,steel,q2_only,no,no,True,True,False,18,8
+chemical element,metal,steel,steel,q2_only,no,no,True,True,False,18,9
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,0
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,1
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,2
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,3
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,4
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,5
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,6
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,7
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,8
+colour,hair colour,auburn,auburn,q2_only,yes,yes,True,False,True,19,9
+colour,metal,steel,steel,q2_only,no,no,True,True,False,20,0
+colour,metal,steel,steel,q2_only,no,no,True,True,False,20,1
+colour,metal,steel,steel,q2_only,no,no,True,True,False,20,2
+colour,metal,steel,steel,q2_only,no,no,True,True,False,20,3
+colour,metal,copper,copper,q2_only,no,no,True,True,False,20,4
+colour,metal,steel,steel,q2_only,no,no,True,True,False,20,5
+colour,metal,steel,steel,q2_only,no,no,True,True,False,20,6
+colour,metal,steel,steel,q2_only,no,no,True,True,False,20,7
+colour,metal,steel,steel,q2_only,no,no,True,True,False,20,8
+colour,metal,steel,steel,q2_only,no,no,True,True,False,20,9
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,0
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,1
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,2
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,3
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,4
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,5
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,6
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,7
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,8
+farm animal,four-legged animal,dog,dog,shared,no,no,True,False,False,21,9
+farm animal,meat,ham steak,ham steak,invalid,no,no,True,True,False,22,0
+farm animal,meat,bacon,bacon,q2_only,no,no,True,True,False,22,1
+farm animal,meat,lamb,lamb,shared,yes,yes,True,True,True,22,2
+farm animal,meat,lamb,lamb,shared,yes,yes,True,True,True,22,3
+farm animal,meat,lamb,lamb,shared,yes,yes,True,True,True,22,4
+farm animal,meat,lamb,lamb,shared,yes,yes,True,True,True,22,5
+farm animal,meat,bacon,bacon,q2_only,no,no,True,True,False,22,6
+farm animal,meat,lamb,lamb,shared,yes,yes,True,True,True,22,7
+farm animal,meat,hammock,hammock,invalid,no,no,True,True,False,22,8
+farm animal,meat,bacon,bacon,q2_only,no,no,True,True,False,22,9
+four-legged animal,meat,bacon,bacon,q2_only,no,no,True,True,False,23,0
+four-legged animal,meat,ham,ham,q2_only,no,no,True,True,False,23,1
+four-legged animal,meat,bacon,bacon,q2_only,no,no,True,True,False,23,2
+four-legged animal,meat,bacon,bacon,q2_only,no,no,True,True,False,23,3
+four-legged animal,meat,lamb,lamb,q2_only,no,no,True,True,False,23,4
+four-legged animal,meat,lamb,lamb,q2_only,no,no,True,True,False,23,5
+four-legged animal,meat,lamb,lamb,q2_only,no,no,True,True,False,23,6
+four-legged animal,meat,lamb,lamb,q2_only,no,no,True,True,False,23,7
+four-legged animal,meat,pork,pork,q2_only,no,no,True,True,False,23,8
+four-legged animal,meat,ham,ham,q2_only,no,no,True,True,False,23,9
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,0
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,1
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,2
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,3
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,4
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,5
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,6
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,7
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,8
+four-legged animal,rodent,rat,rat,shared,no,no,True,False,False,24,9
+four-wheeled vehicle,vehicle,car,car,shared,yes,yes,True,True,True,25,0
+four-wheeled vehicle,vehicle,car,car,shared,yes,yes,True,True,True,25,1
+four-wheeled vehicle,vehicle,truck,truck,shared,yes,yes,True,True,True,25,2
+four-wheeled vehicle,vehicle,car,car,shared,yes,yes,True,True,True,25,3
+four-wheeled vehicle,vehicle,car,car,shared,yes,yes,True,True,True,25,4
+four-wheeled vehicle,vehicle,truck,truck,shared,yes,yes,True,True,True,25,5
+four-wheeled vehicle,vehicle,truck,truck,shared,yes,yes,True,True,True,25,6
+four-wheeled vehicle,vehicle,truck,truck,shared,yes,yes,True,True,True,25,7
+four-wheeled vehicle,vehicle,truck,truck,shared,yes,yes,True,True,True,25,8
+four-wheeled vehicle,vehicle,car,car,shared,yes,yes,True,True,True,25,9
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,0
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,1
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,2
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,3
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,4
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,5
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,6
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,7
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,8
+furniture,living room furniture,sofa,sofa,shared,yes,yes,True,True,True,26,9
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,0
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,1
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,2
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,3
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,4
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,5
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,6
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,7
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,8
+gardening tool,tool,hammer,hammer,q2_only,no,no,True,True,False,27,9
+green vegetable,vegetable,broccoli,broccoli,shared,yes,yes,True,True,True,28,0
+green vegetable,vegetable,celery,celery,invalid,no,no,True,True,False,28,1
+green vegetable,vegetable,carrot,carrot,q2_only,no,no,True,True,False,28,2
+green vegetable,vegetable,celery,celery,invalid,no,no,True,True,False,28,3
+green vegetable,vegetable,celery,celery,invalid,no,no,True,True,False,28,4
+green vegetable,vegetable,broccoli,broccoli,shared,yes,yes,True,True,True,28,5
+green vegetable,vegetable,celery,celery,invalid,no,no,True,True,False,28,6
+green vegetable,vegetable,pea,pea,invalid,yes,yes,True,False,True,28,7
+green vegetable,vegetable,celery,celery,invalid,no,no,True,True,False,28,8
+green vegetable,vegetable,broccoli,broccoli,shared,yes,yes,True,True,True,28,9
+herb,spice,cumin,cumin,q2_only,yes,yes,True,False,True,29,0
+herb,spice,cayenne pepper,cayenne pepper,invalid,no,no,True,True,False,29,1
+herb,spice,cayenne pepper,cayenne pepper,invalid,no,no,True,True,False,29,2
+herb,spice,cayenne pepper,cayenne pepper,invalid,no,no,True,True,False,29,3
+herb,spice,cayenne pepper,cayenne pepper,invalid,no,no,True,True,False,29,4
+herb,spice,cayenne pepper,cayenne pepper,invalid,no,no,True,True,False,29,5
+herb,spice,cayenne pepper,cayenne pepper,invalid,no,no,True,True,False,29,6
+herb,spice,cumin,cumin,q2_only,yes,yes,True,False,True,29,7
+herb,spice,cayenne pepper,cayenne pepper,invalid,no,no,True,True,False,29,8
+herb,spice,cumin,cumin,q2_only,yes,yes,True,False,True,29,9
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,0
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,1
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,2
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,3
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,4
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,5
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,6
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,7
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,8
+insect,stinging insect,hornet,hornet,q2_only,yes,yes,True,False,True,30,9
+kitchen appliance,kitchen utensil,knife,knife,shared,no,no,True,False,False,31,0
+kitchen appliance,kitchen utensil,knife,knife,shared,no,no,True,False,False,31,1
+kitchen appliance,kitchen utensil,spatula,spatula,shared,yes,yes,True,True,True,31,2
+kitchen appliance,kitchen utensil,knife,knife,shared,no,no,True,False,False,31,3
+kitchen appliance,kitchen utensil,knife,knife,shared,no,no,True,False,False,31,4
+kitchen appliance,kitchen utensil,knife,knife,shared,no,no,True,False,False,31,5
+kitchen appliance,kitchen utensil,knife,knife,shared,no,no,True,False,False,31,6
+kitchen appliance,kitchen utensil,knife,knife,shared,no,no,True,False,False,31,7
+kitchen appliance,kitchen utensil,knife,knife,shared,no,no,True,False,False,31,8
+kitchen appliance,kitchen utensil,knife,knife,shared,no,no,True,False,False,31,9
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,0
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,1
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,2
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,3
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,4
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,5
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,6
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,7
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,8
+musical instrument,string instrument,violin,violin,shared,yes,yes,True,True,True,32,9
+part of a building,room in a house,bedroom,bedroom,q2_only,yes,yes,True,False,True,33,0
+part of a building,room in a house,bathroom,bathroom,shared,yes,yes,True,True,True,33,1
+part of a building,room in a house,bedroom,bedroom,q2_only,yes,yes,True,False,True,33,2
+part of a building,room in a house,bathroom,bathroom,shared,yes,yes,True,True,True,33,3
+part of a building,room in a house,bathroom,bathroom,shared,yes,yes,True,True,True,33,4
+part of a building,room in a house,bedroom,bedroom,q2_only,yes,yes,True,False,True,33,5
+part of a building,room in a house,bedroom,bedroom,q2_only,yes,yes,True,False,True,33,6
+part of a building,room in a house,bathroom,bathroom,shared,yes,yes,True,True,True,33,7
+part of a building,room in a house,bathroom,bathroom,shared,yes,yes,True,True,True,33,8
+part of a building,room in a house,bedroom,bedroom,q2_only,yes,yes,True,False,True,33,9
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,0
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,1
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,2
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,3
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,4
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,5
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,6
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,7
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,8
+part of the body,part of the face,eye,eye,invalid,yes,yes,True,False,True,34,9
+tool,weapon,knife,knife,shared,yes,yes,True,True,True,35,0
+tool,weapon,sword,sword,q2_only,no,no,True,True,False,35,1
+tool,weapon,knife,knife,shared,yes,yes,True,True,True,35,2
+tool,weapon,sword,sword,q2_only,no,no,True,True,False,35,3
+tool,weapon,sword,sword,q2_only,no,no,True,True,False,35,4
+tool,weapon,sword,sword,q2_only,no,no,True,True,False,35,5
+tool,weapon,sword,sword,q2_only,no,no,True,True,False,35,6
+tool,weapon,knife,knife,shared,yes,yes,True,True,True,35,7
+tool,weapon,sword,sword,q2_only,no,no,True,True,False,35,8
+tool,weapon,knife,knife,shared,yes,yes,True,True,True,35,9
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,0
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,1
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,2
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,3
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,4
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,5
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,6
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,7
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,8
+deciduous tree,fruit tree,apple,apple,shared,no,no,True,False,False,36,9
+wild cat,jungle animal,lion,lion,invalid,yes,yes,True,False,True,37,0
+wild cat,jungle animal,jaguar,jaguar,shared,yes,yes,True,True,True,37,1
+wild cat,jungle animal,jaguar,jaguar,shared,yes,yes,True,True,True,37,2
+wild cat,jungle animal,lion,lion,invalid,yes,yes,True,False,True,37,3
+wild cat,jungle animal,lion,lion,invalid,yes,yes,True,False,True,37,4
+wild cat,jungle animal,lion,lion,invalid,yes,yes,True,False,True,37,5
+wild cat,jungle animal,lion,lion,invalid,yes,yes,True,False,True,37,6
+wild cat,jungle animal,jaguar,jaguar,shared,yes,yes,True,True,True,37,7
+wild cat,jungle animal,jaguar,jaguar,shared,yes,yes,True,True,True,37,8
+wild cat,jungle animal,lion,lion,invalid,yes,yes,True,False,True,37,9
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,0
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,1
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,2
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,3
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,4
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,5
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,6
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,7
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,8
+bathroom item,cleaning supply,broom,broom,q2_only,no,no,True,True,False,38,9
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,0
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,1
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,2
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,3
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,4
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,5
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,6
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,7
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,8
+school supply,art supply,paintbrush,paintbrush,q2_only,no,no,True,True,False,39,9
+board game,strategy game,risk,Risk,shared,yes,yes,True,True,True,40,0
+board game,strategy game,risk,Risk,shared,yes,yes,True,True,True,40,1
+board game,strategy game,chess,Chess,shared,yes,yes,True,True,True,40,2
+board game,strategy game,chess,Chess,shared,yes,yes,True,True,True,40,3
+board game,strategy game,risk,Risk,shared,yes,yes,True,True,True,40,4
+board game,strategy game,chess,Chess,shared,yes,yes,True,True,True,40,5
+board game,strategy game,chess,Chess,shared,yes,yes,True,True,True,40,6
+board game,strategy game,chess,Chess,shared,yes,yes,True,True,True,40,7
+board game,strategy game,chess,Chess,shared,yes,yes,True,True,True,40,8
+board game,strategy game,risk,Risk,shared,yes,yes,True,True,True,40,9
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,0
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,1
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,2
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,3
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,4
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,5
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,6
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,7
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,8
+root vegetable,soup ingredient,tomato,tomato,q2_only,no,no,True,True,False,41,9
+percussion instrument,marching band instrument,trombone,trombone,q2_only,no,no,True,True,False,42,0
+percussion instrument,marching band instrument,snare drum,snare drum,shared,yes,yes,True,True,True,42,1
+percussion instrument,marching band instrument,snare drum,snare drum,shared,yes,yes,True,True,True,42,2
+percussion instrument,marching band instrument,trumpet,trumpet,q2_only,no,no,True,True,False,42,3
+percussion instrument,marching band instrument,trumpet,trumpet,q2_only,no,no,True,True,False,42,4
+percussion instrument,marching band instrument,tuba,tuba,q2_only,no,no,True,True,False,42,5
+percussion instrument,marching band instrument,trumpet,trumpet,q2_only,no,no,True,True,False,42,6
+percussion instrument,marching band instrument,trumpet,trumpet,q2_only,no,no,True,True,False,42,7
+percussion instrument,marching band instrument,trumpet,trumpet,q2_only,no,no,True,True,False,42,8
+percussion instrument,marching band instrument,trumpet,trumpet,q2_only,no,no,True,True,False,42,9
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,0
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,1
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,2
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,3
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,4
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,5
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,6
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,7
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,8
+building material,natural resource,oil,oil,q2_only,no,no,True,True,False,43,9
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,0
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,1
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,2
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,3
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,4
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,5
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,6
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,7
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,8
+weapon,hunting gear,bow,bow,shared,yes,yes,True,True,True,44,9
+livestock,pack animal,camel,camel,q2_only,yes,yes,True,False,True,45,0
+livestock,pack animal,camel,camel,q2_only,yes,yes,True,False,True,45,1
+livestock,pack animal,camel,camel,q2_only,yes,yes,True,False,True,45,2
+livestock,pack animal,camel,camel,q2_only,yes,yes,True,False,True,45,3
+livestock,pack animal,camel,camel,q2_only,yes,yes,True,False,True,45,4
+livestock,pack animal,camel,camel,q2_only,yes,yes,True,False,True,45,5
+livestock,pack animal,camel,camel,q2_only,yes,yes,True,False,True,45,6
+livestock,pack animal,donkey,donkey,shared,yes,yes,True,True,True,45,7
+livestock,pack animal,camel,camel,q2_only,yes,yes,True,False,True,45,8
+livestock,pack animal,camel,camel,q2_only,yes,yes,True,False,True,45,9
+flower,wedding item,ring,ring,q2_only,no,no,True,True,False,46,0
+flower,wedding item,ring,ring,q2_only,no,no,True,True,False,46,1
+flower,wedding item,cake,cake,q2_only,no,no,True,True,False,46,2
+flower,wedding item,cake slice,cake slice,invalid,no,no,True,True,False,46,3
+flower,wedding item,ring,ring,q2_only,no,no,True,True,False,46,4
+flower,wedding item,veil,veil,q2_only,no,no,True,True,False,46,5
+flower,wedding item,wedding cake topper,wedding cake topper,invalid,no,no,True,True,False,46,6
+flower,wedding item,veil,veil,q2_only,no,no,True,True,False,46,7
+flower,wedding item,veil,veil,q2_only,no,no,True,True,False,46,8
+flower,wedding item,veil,veil,q2_only,no,no,True,True,False,46,9
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,0
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,1
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,2
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,3
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,4
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,5
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,6
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,7
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,8
+beach item,summer clothing,shorts,shorts,q2_only,no,no,True,True,False,47,9
+vehicle,military equipment,tank,tank,shared,yes,yes,True,True,True,48,0
+vehicle,military equipment,machine gun,machine gun,invalid,no,no,True,True,False,48,1
+vehicle,military equipment,tank,tank,shared,yes,yes,True,True,True,48,2
+vehicle,military equipment,tank,tank,shared,yes,yes,True,True,True,48,3
+vehicle,military equipment,missile,missile,q2_only,no,no,True,True,False,48,4
+vehicle,military equipment,tank,tank,shared,yes,yes,True,True,True,48,5
+vehicle,military equipment,tank,tank,shared,yes,yes,True,True,True,48,6
+vehicle,military equipment,machine gun,machine gun,invalid,no,no,True,True,False,48,7
+vehicle,military equipment,tank,tank,shared,yes,yes,True,True,True,48,8
+vehicle,military equipment,missile,missile,q2_only,no,no,True,True,False,48,9
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,0
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,1
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,2
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,3
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,4
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,5
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,6
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,7
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,8
+sweet treat,halloween item,mask,mask,q2_only,no,no,True,True,False,49,9
+country in asia,island nation,malta,Malta,q2_only,no,no,True,True,False,50,0
+country in asia,island nation,maldives,Maldives,shared,yes,yes,True,True,True,50,1
+country in asia,island nation,maldives,Maldives,shared,yes,yes,True,True,True,50,2
+country in asia,island nation,maldives,Maldives,shared,yes,yes,True,True,True,50,3
+country in asia,island nation,maldives,Maldives,shared,yes,yes,True,True,True,50,4
+country in asia,island nation,maldives,Maldives,shared,yes,yes,True,True,True,50,5
+country in asia,island nation,maldives,Maldives,shared,yes,yes,True,True,True,50,6
+country in asia,island nation,malta,Malta,q2_only,no,no,True,True,False,50,7
+country in asia,island nation,maldives,Maldives,shared,yes,yes,True,True,True,50,8
+country in asia,island nation,maldives,Maldives,shared,yes,yes,True,True,True,50,9
+rodent,house pest,ant,ant,q2_only,yes,yes,True,False,True,51,0
+rodent,house pest,rodent,rodent,invalid,yes,yes,True,False,True,51,1
+rodent,house pest,rat,rat,shared,yes,yes,True,True,True,51,2
+rodent,house pest,rat,rat,shared,yes,yes,True,True,True,51,3
+rodent,house pest,rat,rat,shared,yes,yes,True,True,True,51,4
+rodent,house pest,rat,rat,shared,yes,yes,True,True,True,51,5
+rodent,house pest,rat,rat,shared,yes,yes,True,True,True,51,6
+rodent,house pest,ant,ant,q2_only,yes,yes,True,False,True,51,7
+rodent,house pest,rodent,rodent,invalid,yes,yes,True,False,True,51,8
+rodent,house pest,ant,ant,q2_only,yes,yes,True,False,True,51,9
+pizza topping,dairy product,cheese,cheese,shared,yes,yes,True,True,True,52,0
+pizza topping,dairy product,yogurt,yogurt,q2_only,no,no,True,True,False,52,1
+pizza topping,dairy product,yogurt,yogurt,q2_only,no,no,True,True,False,52,2
+pizza topping,dairy product,yogurt,yogurt,q2_only,no,no,True,True,False,52,3
+pizza topping,dairy product,yogurt,yogurt,q2_only,no,no,True,True,False,52,4
+pizza topping,dairy product,yogurt,yogurt,q2_only,no,no,True,True,False,52,5
+pizza topping,dairy product,cheese,cheese,shared,yes,yes,True,True,True,52,6
+pizza topping,dairy product,yogurt,yogurt,q2_only,no,no,True,True,False,52,7
+pizza topping,dairy product,yogurt,yogurt,q2_only,no,no,True,True,False,52,8
+pizza topping,dairy product,yogurt,yogurt,q2_only,no,no,True,True,False,52,9
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,0
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,1
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,2
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,3
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,4
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,5
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,6
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,7
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,8
+water sport,extreme sport,bungee jumping,bungee jumping,q2_only,no,no,True,True,False,53,9
+mythological creature,movie monster,morgoth,Morgoth,invalid,no,no,True,True,False,54,0
+mythological creature,movie monster,morgoth,Morgoth,invalid,no,no,True,True,False,54,1
+mythological creature,movie monster,mummy,mummy,shared,no,no,True,False,False,54,2
+mythological creature,movie monster,morgoth,Morgoth,invalid,no,no,True,True,False,54,3
+mythological creature,movie monster,frankenstein,Frankenstein,q2_only,no,no,True,True,False,54,4
+mythological creature,movie monster,frankenstein,Frankenstein,q2_only,no,no,True,True,False,54,5
+mythological creature,movie monster,morgoth,Morgoth,invalid,no,no,True,True,False,54,6
+mythological creature,movie monster,morgoth,Morgoth,invalid,no,no,True,True,False,54,7
+mythological creature,movie monster,frankenstein,Frankenstein,q2_only,no,no,True,True,False,54,8
+mythological creature,movie monster,morgoth,morgoth,invalid,no,no,True,True,False,54,9
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,0
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,1
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,2
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,3
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,4
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,5
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,6
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,7
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,8
+hobby,outdoor activity,hiking,hiking,shared,yes,yes,True,True,True,55,9
+ocean animal,aquarium pet,guppy,guppy,q2_only,no,no,True,True,False,56,0
+ocean animal,aquarium pet,guppy,guppy,q2_only,no,no,True,True,False,56,1
+ocean animal,aquarium pet,guppy,guppy,q2_only,no,no,True,True,False,56,2
+ocean animal,aquarium pet,guppy,guppy,q2_only,no,no,True,True,False,56,3
+ocean animal,aquarium pet,goldfish,goldfish,q2_only,no,no,True,True,False,56,4
+ocean animal,aquarium pet,guppy,guppy,q2_only,no,no,True,True,False,56,5
+ocean animal,aquarium pet,guppy,guppy,q2_only,no,no,True,True,False,56,6
+ocean animal,aquarium pet,guppy,guppy,q2_only,no,no,True,True,False,56,7
+ocean animal,aquarium pet,guppy,guppy,q2_only,no,no,True,True,False,56,8
+ocean animal,aquarium pet,guppy,guppy,q2_only,no,no,True,True,False,56,9
+winter sport,olympic sport,rowing,rowing,invalid,no,no,True,True,False,57,0
+winter sport,olympic sport,rowing,rowing,invalid,no,no,True,True,False,57,1
+winter sport,olympic sport,swimming,swimming,q2_only,no,no,True,True,False,57,2
+winter sport,olympic sport,swimming,swimming,q2_only,no,no,True,True,False,57,3
+winter sport,olympic sport,rowing,rowing,invalid,no,no,True,True,False,57,4
+winter sport,olympic sport,rowing,rowing,invalid,no,no,True,True,False,57,5
+winter sport,olympic sport,rowing,rowing,invalid,no,no,True,True,False,57,6
+winter sport,olympic sport,rowing,rowing,invalid,no,no,True,True,False,57,7
+winter sport,olympic sport,swimming,swimming,q2_only,no,no,True,True,False,57,8
+winter sport,olympic sport,swimming,swimming,q2_only,no,no,True,True,False,57,9
+citrus fruit,tropical fruit,mango,mango,q2_only,no,no,True,True,False,58,0
+citrus fruit,tropical fruit,pineapple,pineapple,q2_only,no,no,True,True,False,58,1
+citrus fruit,tropical fruit,pineapple,pineapple,q2_only,no,no,True,True,False,58,2
+citrus fruit,tropical fruit,pineapple,pineapple,q2_only,no,no,True,True,False,58,3
+citrus fruit,tropical fruit,pineapple,pineapple,q2_only,no,no,True,True,False,58,4
+citrus fruit,tropical fruit,pineapple,pineapple,q2_only,no,no,True,True,False,58,5
+citrus fruit,tropical fruit,pineapple,pineapple,q2_only,no,no,True,True,False,58,6
+citrus fruit,tropical fruit,mango,mango,q2_only,no,no,True,True,False,58,7
+citrus fruit,tropical fruit,mango,mango,q2_only,no,no,True,True,False,58,8
+citrus fruit,tropical fruit,mango,mango,q2_only,no,no,True,True,False,58,9
+string instrument,orchestra instrument,flute,flute,q2_only,no,no,True,True,False,59,0
+string instrument,orchestra instrument,flute,flute,q2_only,no,no,True,True,False,59,1
+string instrument,orchestra instrument,flute,flute,q2_only,no,no,True,True,False,59,2
+string instrument,orchestra instrument,flute,flute,q2_only,no,no,True,True,False,59,3
+string instrument,orchestra instrument,flute,flute,q2_only,no,no,True,True,False,59,4
+string instrument,orchestra instrument,flute,flute,q2_only,no,no,True,True,False,59,5
+string instrument,orchestra instrument,flute,flute,q2_only,no,no,True,True,False,59,6
+string instrument,orchestra instrument,flute,flute,q2_only,no,no,True,True,False,59,7
+string instrument,orchestra instrument,violin,violin,shared,yes,yes,True,True,True,59,8
+string instrument,orchestra instrument,violin,violin,shared,yes,yes,True,True,True,59,9
+european capital,coastal city,revelation,revelation,invalid,no,no,True,True,False,60,0
+european capital,coastal city,renshaw,renshaw,invalid,no,no,True,True,False,60,1
+european capital,coastal city,quebec city,Quebec City,invalid,no,no,True,True,False,60,2
+european capital,coastal city,rennes,rennes,invalid,no,no,True,True,False,60,3
+european capital,coastal city,rennes,rennes,invalid,no,no,True,True,False,60,4
+european capital,coastal city,saint john,"saint john, new brunswick",invalid,no,no,True,True,False,60,5
+european capital,coastal city,toronto,toronto,invalid,no,no,True,True,False,60,6
+european capital,coastal city,toronto,toronto,invalid,no,no,True,True,False,60,7
+european capital,coastal city,renshaw,renshaw,invalid,no,no,True,True,False,60,8
+european capital,coastal city,renshaw,renshaw,invalid,no,no,True,True,False,60,9
+fast food chain,pizza place,pizzeria,pizzeria,invalid,no,no,True,True,False,61,0
+fast food chain,pizza place,pizzeria,pizzeria,invalid,no,no,True,True,False,61,1
+fast food chain,pizza place,pizzeria,pizzeria,invalid,no,no,True,True,False,61,2
+fast food chain,pizza place,pizzeria,pizzeria,invalid,no,no,True,True,False,61,3
+fast food chain,pizza place,pizzeria,pizzeria,invalid,no,no,True,True,False,61,4
+fast food chain,pizza place,pizzeria,pizzeria,invalid,no,no,True,True,False,61,5
+fast food chain,pizza place,pizzeria,pizzeria,invalid,no,no,True,True,False,61,6
+fast food chain,pizza place,pizzeria,pizzeria,invalid,no,no,True,True,False,61,7
+fast food chain,pizza place,pizzeria,pizzeria,invalid,no,no,True,True,False,61,8
+fast food chain,pizza place,papa johns,papa john's,shared,no,no,True,False,False,61,9
+hand tool,gardening tool,pruner,pruner,invalid,no,no,True,True,False,62,0
+hand tool,gardening tool,pruning shears,pruning shears,invalid,yes,yes,True,False,True,62,1
+hand tool,gardening tool,pruning shears,pruning shears,invalid,yes,yes,True,False,True,62,2
+hand tool,gardening tool,pruning shears,pruning shears,invalid,yes,yes,True,False,True,62,3
+hand tool,gardening tool,pruning shears,pruning shears,invalid,yes,yes,True,False,True,62,4
+hand tool,gardening tool,pruner,pruner,invalid,no,no,True,True,False,62,5
+hand tool,gardening tool,pruner,pruner,invalid,no,no,True,True,False,62,6
+hand tool,gardening tool,pruning shears,pruning shears,invalid,yes,yes,True,False,True,62,7
+hand tool,gardening tool,pruning shears,pruning shears,invalid,yes,yes,True,False,True,62,8
+hand tool,gardening tool,pruning shears,pruning shears,invalid,yes,yes,True,False,True,62,9
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,0
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,1
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,2
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,3
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,4
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,5
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,6
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,7
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,8
+flying insect,stinging insect,hornet,hornet,shared,no,no,True,False,False,63,9
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,0
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,1
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,2
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,3
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,4
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,5
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,6
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,7
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,8
+carnivore,african animal,lion,lion,shared,yes,yes,True,True,True,64,9
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,0
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,1
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,2
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,3
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,4
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,5
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,6
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,7
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,8
+footwear,winter clothing,coat,coat,q2_only,no,no,True,True,False,65,9
+red fruit,berry,raspberry,raspberry,shared,yes,yes,True,True,True,66,0
+red fruit,berry,raspberry,raspberry,shared,yes,yes,True,True,True,66,1
+red fruit,berry,raspberry,raspberry,shared,yes,yes,True,True,True,66,2
+red fruit,berry,strawberry,strawberry,shared,yes,yes,True,True,True,66,3
+red fruit,berry,strawberry,strawberry,shared,yes,yes,True,True,True,66,4
+red fruit,berry,raspberry,raspberry,shared,yes,yes,True,True,True,66,5
+red fruit,berry,raspberry,raspberry,shared,yes,yes,True,True,True,66,6
+red fruit,berry,strawberry,strawberry,shared,yes,yes,True,True,True,66,7
+red fruit,berry,strawberry,strawberry,shared,yes,yes,True,True,True,66,8
+red fruit,berry,raspberry,raspberry,shared,yes,yes,True,True,True,66,9
+party game,card game,poker,poker,q2_only,no,no,True,True,False,67,0
+party game,card game,blackjack,blackjack,q2_only,no,no,True,True,False,67,1
+party game,card game,poker,poker,q2_only,no,no,True,True,False,67,2
+party game,card game,poker,poker,q2_only,no,no,True,True,False,67,3
+party game,card game,poker,poker,q2_only,no,no,True,True,False,67,4
+party game,card game,poker,poker,q2_only,no,no,True,True,False,67,5
+party game,card game,poker,poker,q2_only,no,no,True,True,False,67,6
+party game,card game,blackjack,blackjack,q2_only,no,no,True,True,False,67,7
+party game,card game,poker,poker,q2_only,no,no,True,True,False,67,8
+party game,card game,poker,poker,q2_only,no,no,True,True,False,67,9
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,0
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,1
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,2
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,3
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,4
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,5
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,6
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,7
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,8
+hot drink,caffeinated drink,coffee,coffee,shared,yes,yes,True,True,True,68,9
+furniture,wood object,table,table,shared,yes,yes,True,True,True,69,0
+furniture,wood object,chair,chair,shared,yes,yes,True,True,True,69,1
+furniture,wood object,chair,chair,shared,yes,yes,True,True,True,69,2
+furniture,wood object,chair,chair,shared,yes,yes,True,True,True,69,3
+furniture,wood object,table,table,shared,yes,yes,True,True,True,69,4
+furniture,wood object,chair,chair,shared,yes,yes,True,True,True,69,5
+furniture,wood object,chair,chair,shared,yes,yes,True,True,True,69,6
+furniture,wood object,chair,chair,shared,yes,yes,True,True,True,69,7
+furniture,wood object,chair,chair,shared,yes,yes,True,True,True,69,8
+furniture,wood object,table,table,shared,yes,yes,True,True,True,69,9
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,0
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,1
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,2
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,3
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,4
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,5
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,6
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,7
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,8
+reptile,pet,dog,dog,q2_only,no,no,True,True,False,70,9
+breakfast food,baked good,pie,pie,q2_only,no,no,True,True,False,71,0
+breakfast food,baked good,bread,bread,q2_only,yes,yes,True,False,True,71,1
+breakfast food,baked good,pie,pie,q2_only,no,no,True,True,False,71,2
+breakfast food,baked good,cake,cake,q2_only,no,no,True,True,False,71,3
+breakfast food,baked good,cake,cake,q2_only,no,no,True,True,False,71,4
+breakfast food,baked good,cake,cake,q2_only,no,no,True,True,False,71,5
+breakfast food,baked good,pie,pie,q2_only,no,no,True,True,False,71,6
+breakfast food,baked good,pie,pie,q2_only,no,no,True,True,False,71,7
+breakfast food,baked good,cake,cake,q2_only,no,no,True,True,False,71,8
+breakfast food,baked good,pie,pie,q2_only,no,no,True,True,False,71,9
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,0
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,1
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,2
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,3
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,4
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,5
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,6
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,7
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,8
+precious metal,jewelry material,gold,gold,shared,yes,yes,True,True,True,72,9
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,0
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,1
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,2
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,3
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,4
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,5
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,6
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,7
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,8
+transport with wheels,public transport,bus,bus,shared,yes,yes,True,True,True,73,9
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,0
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,1
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,2
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,3
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,4
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,5
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,6
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,7
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,8
+yellow food,dessert,ice cream,ice cream,q2_only,no,no,True,True,False,74,9
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,0
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,1
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,2
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,3
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,4
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,5
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,6
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,7
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,8
+computer peripheral,office supply,paperclip,paperclip,invalid,no,no,True,True,False,75,9
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,0
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,1
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,2
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,3
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,4
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,5
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,6
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,7
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,8
+clothing brand,luxury brand,louis vuitton,Louis Vuitton,shared,yes,yes,True,True,True,76,9
+french food,cheese,cheddar,cheddar,q2_only,no,no,True,True,False,77,0
+french food,cheese,cheddar,cheddar,q2_only,no,no,True,True,False,77,1
+french food,cheese,cheddar,cheddar,q2_only,no,no,True,True,False,77,2
+french food,cheese,cheddar,cheddar,q2_only,no,no,True,True,False,77,3
+french food,cheese,cheddar,cheddar,q2_only,no,no,True,True,False,77,4
+french food,cheese,cheddar,cheddar,q2_only,no,no,True,True,False,77,5
+french food,cheese,cheddar,cheddar,q2_only,no,no,True,True,False,77,6
+french food,cheese,cheddar,Cheddar,q2_only,no,no,True,True,False,77,7
+french food,cheese,cheddar,cheddar,q2_only,no,no,True,True,False,77,8
+french food,cheese,cheddar,cheddar,q2_only,no,no,True,True,False,77,9
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,0
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,1
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,2
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,3
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,4
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,5
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,6
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,7
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,8
+mythological hero,constellation,orion,Orion,shared,no,no,True,False,False,78,9
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,0
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,1
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,2
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,3
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,4
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,5
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,6
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,7
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,8
+heavy machinery,farm equipment,tractor,tractor,shared,yes,yes,True,True,True,79,9
+german brand,car brand,lexus,Lexus,invalid,no,no,True,True,False,80,0
+german brand,car brand,lexus,Lexus,invalid,no,no,True,True,False,80,1
+german brand,car brand,lamborghini,Lamborghini,invalid,no,no,True,True,False,80,2
+german brand,car brand,lexus,Lexus,invalid,no,no,True,True,False,80,3
+german brand,car brand,lexus,Lexus,invalid,no,no,True,True,False,80,4
+german brand,car brand,lamborghini,Lamborghini,invalid,no,no,True,True,False,80,5
+german brand,car brand,lexus,Lexus,invalid,no,no,True,True,False,80,6
+german brand,car brand,lexus,Lexus,invalid,no,no,True,True,False,80,7
+german brand,car brand,lexus,Lexus,invalid,no,no,True,True,False,80,8
+german brand,car brand,lexus,Lexus,invalid,no,no,True,True,False,80,9
+hospital staff,medical profession,doctor,doctor,invalid,yes,yes,True,False,True,81,0
+hospital staff,medical profession,doctor,doctor,invalid,yes,yes,True,False,True,81,1
+hospital staff,medical profession,doctor,doctor,invalid,yes,yes,True,False,True,81,2
+hospital staff,medical profession,doctor,doctor,invalid,yes,yes,True,False,True,81,3
+hospital staff,medical profession,doctor,doctor,invalid,yes,yes,True,False,True,81,4
+hospital staff,medical profession,doctor,doctor,invalid,yes,yes,True,False,True,81,5
+hospital staff,medical profession,doctor,doctor,invalid,yes,yes,True,False,True,81,6
+hospital staff,medical profession,doctor,doctor,invalid,yes,yes,True,False,True,81,7
+hospital staff,medical profession,physician,physician,invalid,yes,yes,True,False,True,81,8
+hospital staff,medical profession,doctor,doctor,invalid,yes,yes,True,False,True,81,9
+folk instrument,woodwind instrument,flute,flute,q2_only,yes,yes,True,False,True,82,0
+folk instrument,woodwind instrument,flute,flute,q2_only,yes,yes,True,False,True,82,1
+folk instrument,woodwind instrument,flute,flute,q2_only,yes,yes,True,False,True,82,2
+folk instrument,woodwind instrument,flute,flute,q2_only,yes,yes,True,False,True,82,3
+folk instrument,woodwind instrument,flute,flute,q2_only,yes,yes,True,False,True,82,4
+folk instrument,woodwind instrument,flute,flute,q2_only,yes,yes,True,False,True,82,5
+folk instrument,woodwind instrument,flute,flute,q2_only,yes,yes,True,False,True,82,6
+folk instrument,woodwind instrument,flute,flute,q2_only,yes,yes,True,False,True,82,7
+folk instrument,woodwind instrument,clarinet,clarinet,q2_only,no,no,True,True,False,82,8
+folk instrument,woodwind instrument,flute,flute,q2_only,yes,yes,True,False,True,82,9
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,0
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,1
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,2
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,3
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,4
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,5
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,6
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,7
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,8
+camping gear,rain gear,raincoat,raincoat,invalid,yes,yes,True,False,True,83,9
+soup,noodle dish,noodles,noodles,invalid,no,no,True,True,False,84,0
+soup,noodle dish,ramen,ramen,shared,yes,yes,True,True,True,84,1
+soup,noodle dish,ramen,ramen,shared,yes,yes,True,True,True,84,2
+soup,noodle dish,noodles,noodles,invalid,no,no,True,True,False,84,3
+soup,noodle dish,ramen,ramen,shared,yes,yes,True,True,True,84,4
+soup,noodle dish,udong,udong,invalid,no,no,True,True,False,84,5
+soup,noodle dish,ramen,ramen,shared,yes,yes,True,True,True,84,6
+soup,noodle dish,udon,udon,shared,no,no,True,False,False,84,7
+soup,noodle dish,udon,udon,shared,no,no,True,False,False,84,8
+soup,noodle dish,udon,udon,shared,no,no,True,False,False,84,9
+metal,chemical element,argon,argon,q2_only,no,no,True,True,False,85,0
+metal,chemical element,mercury,mercury,invalid,yes,yes,True,False,True,85,1
+metal,chemical element,gold,gold,shared,yes,yes,True,True,True,85,2
+metal,chemical element,bromine,bromine,invalid,no,no,True,True,False,85,3
+metal,chemical element,mercury,mercury,invalid,yes,yes,True,False,True,85,4
+metal,chemical element,argon,argon,q2_only,no,no,True,True,False,85,5
+metal,chemical element,mercury,mercury,invalid,yes,yes,True,False,True,85,6
+metal,chemical element,argon,argon,q2_only,no,no,True,True,False,85,7
+metal,chemical element,argon,argon,q2_only,no,no,True,True,False,85,8
+metal,chemical element,mercury,mercury,invalid,yes,yes,True,False,True,85,9
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,0
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,1
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,2
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,3
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,4
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,5
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,6
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,7
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,8
+spanish speaking country,south american country,bolivia,Bolivia,q2_only,yes,yes,True,False,True,86,9
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,0
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,1
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,2
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,3
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,4
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,5
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,6
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,7
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,8
+venomous animal,australian animal,kangaroo,kangaroo,q2_only,no,no,True,True,False,87,9
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,0
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,1
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,2
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,3
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,4
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,5
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,6
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,7
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,8
+salty snack,movie theater food,popcorn,popcorn,shared,yes,yes,True,True,True,88,9
+tech giant,streaming service,netflix,Netflix,shared,no,no,True,False,False,89,0
+tech giant,streaming service,netflix,Netflix,shared,no,no,True,False,False,89,1
+tech giant,streaming service,netflix,netflix,shared,no,no,True,False,False,89,2
+tech giant,streaming service,netflix,Netflix,shared,no,no,True,False,False,89,3
+tech giant,streaming service,netflix,netflix,shared,no,no,True,False,False,89,4
+tech giant,streaming service,netflix,Netflix,shared,no,no,True,False,False,89,5
+tech giant,streaming service,netflix,netflix,shared,no,no,True,False,False,89,6
+tech giant,streaming service,netflix,Netflix,shared,no,no,True,False,False,89,7
+tech giant,streaming service,netflix,netflix,shared,no,no,True,False,False,89,8
+tech giant,streaming service,netflix,netflix,shared,no,no,True,False,False,89,9
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,0
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,1
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,2
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,3
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,4
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,5
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,6
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,7
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,8
+flightless bird,antarctic animal,penguin,penguin,invalid,yes,yes,True,False,True,90,9
+school subject,craft,weaver,weaver,invalid,no,no,True,True,False,91,0
+school subject,craft,weaver,weaver,invalid,no,no,True,True,False,91,1
+school subject,craft,weaver,weaver,invalid,no,no,True,True,False,91,2
+school subject,craft,weaver,weaver,invalid,no,no,True,True,False,91,3
+school subject,craft,weaving,weaving,invalid,no,no,True,True,False,91,4
+school subject,craft,weaver,weaver,invalid,no,no,True,True,False,91,5
+school subject,craft,weaver,weaver,invalid,no,no,True,True,False,91,6
+school subject,craft,weaver,weaver,invalid,no,no,True,True,False,91,7
+school subject,craft,weaver,weaver,invalid,no,no,True,True,False,91,8
+school subject,craft,weaver,weaver,invalid,no,no,True,True,False,91,9
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,0
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,1
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,2
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,3
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,4
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,5
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,6
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,7
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,8
+houseplant,succulent,cactus,cactus,q2_only,yes,yes,True,False,True,92,9
+uniformed profession,medical profession,cardiologist,cardiologist,invalid,no,no,True,True,False,93,0
+uniformed profession,medical profession,radiologist,radiologist,invalid,no,no,True,True,False,93,1
+uniformed profession,medical profession,physician,physician,invalid,yes,yes,True,False,True,93,2
+uniformed profession,medical profession,physician,physician,invalid,yes,yes,True,False,True,93,3
+uniformed profession,medical profession,surgeon,surgeon,shared,yes,yes,True,True,True,93,4
+uniformed profession,medical profession,cardiologist,cardiologist,invalid,no,no,True,True,False,93,5
+uniformed profession,medical profession,cardiologist,cardiologist,invalid,no,no,True,True,False,93,6
+uniformed profession,medical profession,cardiologist,cardiologist,invalid,no,no,True,True,False,93,7
+uniformed profession,medical profession,surgeon,surgeon,shared,yes,yes,True,True,True,93,8
+uniformed profession,medical profession,cardiologist,cardiologist,invalid,no,no,True,True,False,93,9
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,0
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,1
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,2
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,3
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,4
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,5
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,6
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,7
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,8
+watercraft,recreational vehicle,travel trailer,travel trailer,q2_only,no,no,True,True,False,94,9
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,0
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,1
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,2
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,3
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,4
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,5
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,6
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,7
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,8
+dietary supplement,mineral,quartz,quartz,q2_only,no,no,True,True,False,95,9
+green fruit,salad ingredient,cucumber,cucumber,shared,no,no,True,False,False,96,0
+green fruit,salad ingredient,cucumber,cucumber,shared,no,no,True,False,False,96,1
+green fruit,salad ingredient,cucumber,cucumber,shared,no,no,True,False,False,96,2
+green fruit,salad ingredient,lettuce,lettuce,q2_only,no,no,True,True,False,96,3
+green fruit,salad ingredient,cucumber,cucumber,shared,no,no,True,False,False,96,4
+green fruit,salad ingredient,lettuce,lettuce,q2_only,no,no,True,True,False,96,5
+green fruit,salad ingredient,cucumber,cucumber,shared,no,no,True,False,False,96,6
+green fruit,salad ingredient,cilantro,cilantro,invalid,no,no,True,True,False,96,7
+green fruit,salad ingredient,cucumber,cucumber,shared,no,no,True,False,False,96,8
+green fruit,salad ingredient,cucumber,cucumber,shared,no,no,True,False,False,96,9
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,0
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,1
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,2
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,3
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,4
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,5
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,6
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,7
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,8
+bird of prey,scavenger,treasure hunter,treasure hunter,invalid,no,no,True,True,False,97,9
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,0
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,1
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,2
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,3
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,4
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,5
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,6
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,7
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,8
+brass instrument,jazz instrument,trumpet,trumpet,shared,yes,yes,True,True,True,98,9
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,0
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,1
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,2
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,3
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,4
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,5
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,6
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,7
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,8
+european country,nato member,albania,Albania,invalid,yes,yes,True,False,True,99,9
+gym equipment,home workout equipment,dumbbell,dumbbell,shared,yes,yes,True,True,True,100,0
+gym equipment,home workout equipment,exercise bike,exercise bike,invalid,yes,yes,True,False,True,100,1
+gym equipment,home workout equipment,exercise bike,exercise bike,invalid,yes,yes,True,False,True,100,2
+gym equipment,home workout equipment,exercise bike,exercise bike,invalid,yes,yes,True,False,True,100,3
+gym equipment,home workout equipment,dumbbell,dumbbell,shared,yes,yes,True,True,True,100,4
+gym equipment,home workout equipment,dumbbell,dumbbell,shared,yes,yes,True,True,True,100,5
+gym equipment,home workout equipment,dumbbell,dumbbell,shared,yes,yes,True,True,True,100,6
+gym equipment,home workout equipment,dumbbell,dumbbell,shared,yes,yes,True,True,True,100,7
+gym equipment,home workout equipment,exercise bike,exercise bike,invalid,yes,yes,True,False,True,100,8
+gym equipment,home workout equipment,exercise bike,exercise bike,invalid,yes,yes,True,False,True,100,9
+kitchen appliance,smart home device,smart speaker,smart speaker,q2_only,no,no,True,True,False,101,0
+kitchen appliance,smart home device,smart speaker,smart speaker,q2_only,no,no,True,True,False,101,1
+kitchen appliance,smart home device,smart speaker,smart speaker,q2_only,no,no,True,True,False,101,2
+kitchen appliance,smart home device,smart thermostat,smart thermostat,invalid,no,no,True,True,False,101,3
+kitchen appliance,smart home device,smart speaker,smart speaker,q2_only,no,no,True,True,False,101,4
+kitchen appliance,smart home device,smart speaker,smart speaker,q2_only,no,no,True,True,False,101,5
+kitchen appliance,smart home device,smart speaker,smart speaker,q2_only,no,no,True,True,False,101,6
+kitchen appliance,smart home device,smart speaker,smart speaker,q2_only,no,no,True,True,False,101,7
+kitchen appliance,smart home device,smart speaker,smart speaker,q2_only,no,no,True,True,False,101,8
+kitchen appliance,smart home device,smart speaker,smart speaker,q2_only,no,no,True,True,False,101,9
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,0
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,1
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,2
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,3
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,4
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,5
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,6
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,7
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,8
+pasta shape,italian food,pizza,pizza,q2_only,no,no,True,True,False,102,9
+dog breed,working dog,doggy,doggy,invalid,no,no,True,True,False,103,0
+dog breed,working dog,doggy,doggy,invalid,no,no,True,True,False,103,1
+dog breed,working dog,retriever,retriever,invalid,yes,yes,True,False,True,103,2
+dog breed,working dog,doggy,doggy,invalid,no,no,True,True,False,103,3
+dog breed,working dog,doggy,doggy,invalid,no,no,True,True,False,103,4
+dog breed,working dog,retriever,retriever,invalid,yes,yes,True,False,True,103,5
+dog breed,working dog,retriever,retriever,invalid,yes,yes,True,False,True,103,6
+dog breed,working dog,doggy,doggy,invalid,no,no,True,True,False,103,7
+dog breed,working dog,retriever,retriever,invalid,yes,yes,True,False,True,103,8
+dog breed,working dog,doggy,doggy,invalid,no,no,True,True,False,103,9
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,0
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,1
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,2
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,3
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,4
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,5
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,6
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,7
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,8
+social media platform,messaging app,whatsapp,WhatsApp,shared,no,no,True,False,False,104,9
+freshwater fish,game fish,salmon,salmon,invalid,no,no,True,True,False,105,0
+freshwater fish,game fish,tuna,tuna,q2_only,no,no,True,True,False,105,1
+freshwater fish,game fish,salmon,salmon,invalid,no,no,True,True,False,105,2
+freshwater fish,game fish,salmon,salmon,invalid,no,no,True,True,False,105,3
+freshwater fish,game fish,tuna,tuna,q2_only,no,no,True,True,False,105,4
+freshwater fish,game fish,tuna,tuna,q2_only,no,no,True,True,False,105,5
+freshwater fish,game fish,tuna,tuna,q2_only,no,no,True,True,False,105,6
+freshwater fish,game fish,tuna,tuna,q2_only,no,no,True,True,False,105,7
+freshwater fish,game fish,salmon,salmon,invalid,no,no,True,True,False,105,8
+freshwater fish,game fish,tuna,tuna,q2_only,no,no,True,True,False,105,9
+programming language,web technology,html,HTML,q2_only,no,no,True,True,False,106,0
+programming language,web technology,web developer,web developer,invalid,no,no,True,True,False,106,1
+programming language,web technology,web developer,web developer,invalid,no,no,True,True,False,106,2
+programming language,web technology,web developer,web developer,invalid,no,no,True,True,False,106,3
+programming language,web technology,web developer,web developer,invalid,no,no,True,True,False,106,4
+programming language,web technology,web developer,web developer,invalid,no,no,True,True,False,106,5
+programming language,web technology,web developer,web developer,invalid,no,no,True,True,False,106,6
+programming language,web technology,web developer,web developer,invalid,no,no,True,True,False,106,7
+programming language,web technology,web developer,web developer,invalid,no,no,True,True,False,106,8
+programming language,web technology,web developer,web developer,invalid,no,no,True,True,False,106,9
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,0
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,1
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,2
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,3
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,4
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,5
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,6
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,7
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,8
+comic book hero,avenger,hawkeye,hawkeye,q2_only,no,no,True,True,False,107,9
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,0
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,1
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,2
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,3
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,4
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,5
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,6
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,7
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,8
+herbivore,farm animal,pig,pig,q2_only,no,no,True,True,False,108,9
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,0
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,1
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,2
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,3
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,4
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,5
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,6
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,7
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,8
+footwear brand,sports brand,nike,Nike,shared,yes,yes,True,True,True,109,9
+nut,baking ingredient,sugar,sugar,q2_only,no,no,True,True,False,110,0
+nut,baking ingredient,sugar,sugar,q2_only,no,no,True,True,False,110,1
+nut,baking ingredient,sugar,sugar,q2_only,no,no,True,True,False,110,2
+nut,baking ingredient,sugar,sugar,q2_only,no,no,True,True,False,110,3
+nut,baking ingredient,sugar,sugar,q2_only,no,no,True,True,False,110,4
+nut,baking ingredient,sugar,sugar,q2_only,no,no,True,True,False,110,5
+nut,baking ingredient,sugar,sugar,q2_only,no,no,True,True,False,110,6
+nut,baking ingredient,sugar,sugar,q2_only,no,no,True,True,False,110,7
+nut,baking ingredient,sugar,sugar,q2_only,no,no,True,True,False,110,8
+nut,baking ingredient,butter,butter,q2_only,no,no,True,True,False,110,9
+martial art,olympic sport,rowing,rowing,q2_only,no,no,True,True,False,111,0
+martial art,olympic sport,rowing,rowing,q2_only,no,no,True,True,False,111,1
+martial art,olympic sport,rowing,rowing,q2_only,no,no,True,True,False,111,2
+martial art,olympic sport,rowing,rowing,q2_only,no,no,True,True,False,111,3
+martial art,olympic sport,rowing,rowing,q2_only,no,no,True,True,False,111,4
+martial art,olympic sport,rowing,rowing,q2_only,no,no,True,True,False,111,5
+martial art,olympic sport,rowing,rowing,q2_only,no,no,True,True,False,111,6
+martial art,olympic sport,rowing,rowing,q2_only,no,no,True,True,False,111,7
+martial art,olympic sport,rowing,rowing,q2_only,no,no,True,True,False,111,8
+martial art,olympic sport,swimming,swimming,q2_only,no,no,True,True,False,111,9
+software application,google product,chrome,chrome,shared,yes,yes,True,True,True,112,0
+software application,google product,chrome,chrome,shared,yes,yes,True,True,True,112,1
+software application,google product,search,search,invalid,no,no,True,True,False,112,2
+software application,google product,search️,search️,invalid,no,no,True,True,False,112,3
+software application,google product,search,search,invalid,no,no,True,True,False,112,4
+software application,google product,search️,search️,invalid,no,no,True,True,False,112,5
+software application,google product,google search,google search,q2_only,no,no,True,True,False,112,6
+software application,google product,chrome,chrome,shared,yes,yes,True,True,True,112,7
+software application,google product,search,search,invalid,no,no,True,True,False,112,8
+software application,google product,chrome,chrome,shared,yes,yes,True,True,True,112,9
+condiment,sandwich ingredient,lettuce,lettuce,q2_only,no,no,True,True,False,113,0
+condiment,sandwich ingredient,ham,ham,q2_only,no,no,True,True,False,113,1
+condiment,sandwich ingredient,mayo,mayo,shared,yes,yes,True,True,True,113,2
+condiment,sandwich ingredient,ham,ham,q2_only,no,no,True,True,False,113,3
+condiment,sandwich ingredient,lettuce,lettuce,q2_only,no,no,True,True,False,113,4
+condiment,sandwich ingredient,lettuce,lettuce,q2_only,no,no,True,True,False,113,5
+condiment,sandwich ingredient,ham,ham,q2_only,no,no,True,True,False,113,6
+condiment,sandwich ingredient,mayo,mayo,shared,yes,yes,True,True,True,113,7
+condiment,sandwich ingredient,ham,ham,q2_only,no,no,True,True,False,113,8
+condiment,sandwich ingredient,ham,ham,q2_only,no,no,True,True,False,113,9
+amphibian,swamp animal,frog,frog,shared,yes,yes,True,True,True,114,0
+amphibian,swamp animal,frog,frog,shared,yes,yes,True,True,True,114,1
+amphibian,swamp animal,crocodile,crocodile,q2_only,no,no,True,True,False,114,2
+amphibian,swamp animal,crocodile,crocodile,q2_only,no,no,True,True,False,114,3
+amphibian,swamp animal,muck turtle,muck turtle,invalid,no,no,True,True,False,114,4
+amphibian,swamp animal,mud turtle,mud turtle,invalid,yes,yes,True,False,True,114,5
+amphibian,swamp animal,alligator,alligator,q2_only,no,no,True,True,False,114,6
+amphibian,swamp animal,alligator,alligator,q2_only,no,no,True,True,False,114,7
+amphibian,swamp animal,alligator,alligator,q2_only,no,no,True,True,False,114,8
+amphibian,swamp animal,frog,frog,shared,yes,yes,True,True,True,114,9
+gemstone,color,red,red,q2_only,no,no,True,True,False,115,0
+gemstone,color,blue,blue,q2_only,no,no,True,True,False,115,1
+gemstone,color,blue,blue,q2_only,no,no,True,True,False,115,2
+gemstone,color,blue,blue,q2_only,no,no,True,True,False,115,3
+gemstone,color,blue,blue,q2_only,no,no,True,True,False,115,4
+gemstone,color,blue,blue,q2_only,no,no,True,True,False,115,5
+gemstone,color,blue,blue,q2_only,no,no,True,True,False,115,6
+gemstone,color,red,red,q2_only,no,no,True,True,False,115,7
+gemstone,color,red,red,q2_only,no,no,True,True,False,115,8
+gemstone,color,blue,blue,q2_only,no,no,True,True,False,115,9

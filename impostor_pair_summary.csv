@@ -1,0 +1,117 @@
+q1,q2,rounds,blended_in_rate,caught_rate,judge_consistency
+amphibian,swamp animal,10,0.4,0.6,0.9
+animal,bird,10,1.0,0.0,0.0
+animal,farm animal,10,1.0,0.0,1.0
+animal,meat,10,0.8,0.2,0.2
+animal,water bird,10,1.0,0.0,0.0
+bathroom fixture,living room furniture,10,0.0,1.0,1.0
+bathroom item,cleaning supply,10,0.0,1.0,1.0
+beach item,summer clothing,10,0.0,1.0,1.0
+bird,bird of prey,10,1.0,0.0,1.0
+bird,farm animal,10,0.0,1.0,1.0
+bird,meat,10,0.0,1.0,1.0
+bird,water bird,10,1.0,0.0,0.0
+bird of prey,scavenger,10,0.0,1.0,1.0
+board game,strategy game,10,1.0,0.0,1.0
+body of water,natural landform,10,0.0,1.0,1.0
+brass instrument,jazz instrument,10,1.0,0.0,1.0
+breakfast food,baked good,10,0.1,0.9,0.9
+building,human dwelling,10,1.0,0.0,1.0
+building,religious building,10,1.0,0.0,1.0
+building material,carpenter's tool,10,0.0,1.0,0.0
+building material,natural resource,10,0.0,1.0,1.0
+building material,part of a building,10,0.0,1.0,1.0
+building material,tool,10,0.0,1.0,0.0
+camping gear,rain gear,10,1.0,0.0,0.0
+carnivore,african animal,10,1.0,0.0,1.0
+carpenter's tool,gardening tool,10,0.0,1.0,1.0
+carpenter's tool,tool,10,1.0,0.0,1.0
+carpenter's tool,weapon,10,0.0,1.0,0.9
+chemical element,metal,10,0.6,0.4,1.0
+citrus fruit,tropical fruit,10,0.0,1.0,1.0
+clothing brand,luxury brand,10,1.0,0.0,1.0
+colour,hair colour,10,1.0,0.0,0.0
+colour,metal,10,0.0,1.0,1.0
+comic book hero,avenger,10,0.0,1.0,1.0
+computer peripheral,office supply,10,0.0,1.0,1.0
+condiment,sandwich ingredient,10,0.2,0.8,1.0
+country in asia,island nation,10,0.8,0.2,1.0
+deciduous tree,fruit tree,10,0.0,1.0,0.0
+dietary supplement,mineral,10,0.0,1.0,1.0
+dog breed,working dog,10,0.4,0.6,0.6
+european capital,coastal city,10,0.0,1.0,1.0
+european country,nato member,10,1.0,0.0,0.0
+farm animal,four-legged animal,10,0.0,1.0,0.0
+farm animal,meat,10,0.5,0.5,1.0
+fast food chain,pizza place,10,0.0,1.0,0.9
+flightless bird,antarctic animal,10,1.0,0.0,0.0
+flower,wedding item,10,0.0,1.0,1.0
+flying insect,stinging insect,10,0.0,1.0,0.0
+folk instrument,woodwind instrument,10,0.9,0.1,0.1
+footwear,winter clothing,10,0.0,1.0,1.0
+footwear brand,sports brand,10,1.0,0.0,1.0
+four-legged animal,meat,10,0.0,1.0,1.0
+four-legged animal,rodent,10,0.0,1.0,0.0
+four-wheeled vehicle,vehicle,10,1.0,0.0,1.0
+french food,cheese,10,0.0,1.0,1.0
+freshwater fish,game fish,10,0.0,1.0,1.0
+furniture,living room furniture,10,1.0,0.0,1.0
+furniture,wood object,10,1.0,0.0,1.0
+gardening tool,tool,10,0.0,1.0,1.0
+gemstone,color,10,0.0,1.0,1.0
+german brand,car brand,10,0.0,1.0,1.0
+green fruit,salad ingredient,10,0.0,1.0,0.3
+green vegetable,vegetable,10,0.4,0.6,0.9
+gym equipment,home workout equipment,10,1.0,0.0,0.5
+hand tool,gardening tool,10,0.7,0.3,0.3
+heavy machinery,farm equipment,10,1.0,0.0,1.0
+herb,spice,10,0.3,0.7,0.7
+herbivore,farm animal,10,0.0,1.0,1.0
+hobby,outdoor activity,10,1.0,0.0,1.0
+hospital staff,medical profession,10,1.0,0.0,0.0
+hot drink,caffeinated drink,10,1.0,0.0,1.0
+houseplant,succulent,10,1.0,0.0,0.0
+insect,stinging insect,10,1.0,0.0,0.0
+kitchen appliance,kitchen utensil,10,0.1,0.9,0.1
+kitchen appliance,smart home device,10,0.0,1.0,1.0
+livestock,pack animal,10,1.0,0.0,0.1
+martial art,olympic sport,10,0.0,1.0,1.0
+metal,chemical element,10,0.5,0.5,0.6
+musical instrument,string instrument,10,1.0,0.0,1.0
+mythological creature,movie monster,10,0.0,1.0,0.9
+mythological hero,constellation,10,0.0,1.0,0.0
+nut,baking ingredient,10,0.0,1.0,1.0
+ocean animal,aquarium pet,10,0.0,1.0,1.0
+part of a building,room in a house,10,1.0,0.0,0.5
+part of the body,part of the face,10,1.0,0.0,0.0
+party game,card game,10,0.0,1.0,1.0
+pasta shape,italian food,10,0.0,1.0,1.0
+percussion instrument,marching band instrument,10,0.2,0.8,1.0
+pizza topping,dairy product,10,0.2,0.8,1.0
+precious metal,jewelry material,10,1.0,0.0,1.0
+programming language,web technology,10,0.0,1.0,1.0
+red fruit,berry,10,1.0,0.0,1.0
+reptile,pet,10,0.0,1.0,1.0
+rodent,house pest,10,1.0,0.0,0.5
+root vegetable,soup ingredient,10,0.0,1.0,1.0
+salty snack,movie theater food,10,1.0,0.0,1.0
+school subject,craft,10,0.0,1.0,1.0
+school supply,art supply,10,0.0,1.0,1.0
+social media platform,messaging app,10,0.0,1.0,0.0
+software application,google product,10,0.4,0.6,1.0
+soup,noodle dish,10,0.4,0.6,0.7
+spanish speaking country,south american country,10,1.0,0.0,0.0
+string instrument,orchestra instrument,10,0.2,0.8,1.0
+sweet treat,halloween item,10,0.0,1.0,1.0
+tech giant,streaming service,10,0.0,1.0,0.0
+tool,weapon,10,0.4,0.6,1.0
+transport with wheels,public transport,10,1.0,0.0,1.0
+uniformed profession,medical profession,10,0.4,0.6,0.8
+vehicle,military equipment,10,0.6,0.4,1.0
+venomous animal,australian animal,10,0.0,1.0,1.0
+water sport,extreme sport,10,0.0,1.0,1.0
+watercraft,recreational vehicle,10,0.0,1.0,1.0
+weapon,hunting gear,10,1.0,0.0,1.0
+wild cat,jungle animal,10,1.0,0.0,0.4
+winter sport,olympic sport,10,0.0,1.0,1.0
+yellow food,dessert,10,0.0,1.0,1.0

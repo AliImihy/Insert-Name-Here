@@ -1,0 +1,581 @@
+q1,q2,q1_example_answers,generated_impostor_answer,generated_impostor_raw,impostor_answer_type,judge_choice,judge_raw_output,judge_valid_output,judge_correct,blended_in,caught_by_judge,pair_index,round_num
+animal,bird,"['hamster', 'goose']",goose,goose,shared,yes,yes,True,True,True,False,0,0
+animal,bird,"['shark', 'bird']",penguin,penguin,shared,yes,yes,True,True,True,False,0,1
+animal,bird,"['seagull', 'jaguar']",jaguar,jaguar,invalid,yes,yes,True,False,True,False,0,2
+animal,bird,"['cow', 'gerbil']",owl,owl,q2_only,yes,yes,True,False,True,False,0,3
+animal,bird,"['rat', 'insect']",crow,crow,q2_only,yes,yes,True,False,True,False,0,4
+animal,farm animal,"['goose', 'human']",chicken,chicken,shared,yes,yes,True,True,True,False,1,0
+animal,farm animal,"['mouse', 'koala']",pig,pig,shared,yes,yes,True,True,True,False,1,1
+animal,farm animal,"['human', 'squirrel']",pig,pig,shared,yes,yes,True,True,True,False,1,2
+animal,farm animal,"['gerbil', 'badger']",pig,pig,shared,yes,yes,True,True,True,False,1,3
+animal,farm animal,"['seagull', 'panda']",chicken,chicken,shared,yes,yes,True,True,True,False,1,4
+animal,meat,"['zebra', 'leopard']",pork,pork,q2_only,no,no,True,True,False,True,2,0
+animal,meat,"['ferret', 'camel']",pork,pork,q2_only,no,no,True,True,False,True,2,1
+animal,meat,"['leopard', 'gorilla']",bacon,bacon,q2_only,no,no,True,True,False,True,2,2
+animal,meat,"['rabbit', 'goat']",turkey,turkey,q2_only,no,no,True,True,False,True,2,3
+animal,meat,"['gazelle', 'lizard']",salmon,salmon,q2_only,yes,yes,True,False,True,False,2,4
+animal,water bird,"['bat', 'lemur']",loon,loon,invalid,yes,yes,True,False,True,False,3,0
+animal,water bird,"['cat', 'swan']",heron,heron,q2_only,yes,yes,True,False,True,False,3,1
+animal,water bird,"['deer', 'camel']",loon,loon,invalid,yes,yes,True,False,True,False,3,2
+animal,water bird,"['goat', 'wolf']",penguin,penguin,shared,yes,yes,True,True,True,False,3,3
+animal,water bird,"['shark', 'panda']",penguin,penguin,shared,yes,yes,True,True,True,False,3,4
+bathroom fixture,living room furniture,"['mirror', 'radiator']",sofa,sofa,q2_only,no,no,True,True,False,True,4,0
+bathroom fixture,living room furniture,"['bath', 'blind']",sofa,sofa,q2_only,no,no,True,True,False,True,4,1
+bathroom fixture,living room furniture,"['window', 'bath']",sofa,sofa,q2_only,no,no,True,True,False,True,4,2
+bathroom fixture,living room furniture,"['sink', 'cabinet']",sofa,sofa,q2_only,no,no,True,True,False,True,4,3
+bathroom fixture,living room furniture,"['mirror', 'door']",sofa,sofa,q2_only,no,no,True,True,False,True,4,4
+bird,bird of prey,"['finch', 'penguin']",hawk,hawk,shared,yes,yes,True,True,True,False,5,0
+bird,bird of prey,"['crow', 'hummingbird']",eagle,eagle,shared,yes,yes,True,True,True,False,5,1
+bird,bird of prey,"['blue tit', 'swallow']",eagle,eagle,shared,yes,yes,True,True,True,False,5,2
+bird,bird of prey,"['blackbird', 'sparrow']",eagle,eagle,shared,yes,yes,True,True,True,False,5,3
+bird,bird of prey,"['flamingo', 'bluebird']",eagle,eagle,shared,yes,yes,True,True,True,False,5,4
+bird,farm animal,"['parrot', 'vulture']",duck,duck,shared,yes,yes,True,True,True,False,6,0
+bird,farm animal,"['dove', 'great tit']",chicken,chicken,shared,no,no,True,False,False,True,6,1
+bird,farm animal,"['penguin', 'jackdaw']",chicken,chicken,shared,no,no,True,False,False,True,6,2
+bird,farm animal,"['owl', 'parrot']",duck,duck,shared,yes,yes,True,True,True,False,6,3
+bird,farm animal,"['owl', 'chicken']",chicken,chicken,shared,no,no,True,False,False,True,6,4
+bird,meat,"['eagle', 'chicken']",turkey,turkey,shared,no,no,True,False,False,True,7,0
+bird,meat,"['parrot', 'vulture']",turkey,turkey,shared,no,no,True,False,False,True,7,1
+bird,meat,"['duck', 'sparrow']",turkey,turkey,shared,no,no,True,False,False,True,7,2
+bird,meat,"['swallow', 'gannet']",pork,pork,q2_only,no,no,True,True,False,True,7,3
+bird,meat,"['jackdaw', 'bluebird']",turkey,turkey,shared,no,no,True,False,False,True,7,4
+bird,water bird,"['seagull', 'gannet']",loon,loon,invalid,yes,yes,True,False,True,False,8,0
+bird,water bird,"['raven', 'stork']",heron,heron,q2_only,yes,yes,True,False,True,False,8,1
+bird,water bird,"['swan', 'swallow']",heron,heron,q2_only,yes,yes,True,False,True,False,8,2
+bird,water bird,"['hummingbird', 'great tit']",swan,swan,shared,yes,yes,True,True,True,False,8,3
+bird,water bird,"['gannet', 'wagtail']",loon,loon,invalid,yes,yes,True,False,True,False,8,4
+body of water,natural landform,"['puddle', 'lake']",hill,hill,q2_only,no,no,True,True,False,True,9,0
+body of water,natural landform,"['canal', 'pool']",peak,peak,invalid,no,no,True,True,False,True,9,1
+body of water,natural landform,"['puddle', 'ocean']",peak,peak,invalid,no,no,True,True,False,True,9,2
+body of water,natural landform,"['canal', 'river']",hill,hill,q2_only,no,no,True,True,False,True,9,3
+body of water,natural landform,"['puddle', 'pacific ocean']",mountain,mountain,q2_only,no,no,True,True,False,True,9,4
+building,human dwelling,"['synagogue', 'cathedral']",house,house,shared,yes,yes,True,True,True,False,10,0
+building,human dwelling,"['restaurant', 'synagogue']",house,house,shared,yes,yes,True,True,True,False,10,1
+building,human dwelling,"['mansion', 'flats']",house,house,shared,yes,yes,True,True,True,False,10,2
+building,human dwelling,"['bungalow', 'museum']",house,house,shared,yes,yes,True,True,True,False,10,3
+building,human dwelling,"['castle', 'dentist']",house,house,shared,yes,yes,True,True,True,False,10,4
+building,religious building,"['bus station', 'chalet']",mosque,mosque,shared,yes,yes,True,True,True,False,11,0
+building,religious building,"['post office', 'mosque']",church,church,shared,yes,yes,True,True,True,False,11,1
+building,religious building,"['train station', ""doctor's""]",mosque,mosque,shared,yes,yes,True,True,True,False,11,2
+building,religious building,"['castle', 'hospital']",church,church,shared,yes,yes,True,True,True,False,11,3
+building,religious building,"['skyscraper', 'apartment block']",mosque,mosque,shared,yes,yes,True,True,True,False,11,4
+building material,carpenter's tool,"['metal', 'concrete']",hammer,hammer,shared,no,no,True,False,False,True,12,0
+building material,carpenter's tool,"['plastic', 'metal']",hammer,hammer,shared,no,no,True,False,False,True,12,1
+building material,carpenter's tool,"['stone', 'hammer']",saw,saw,q2_only,no,no,True,True,False,True,12,2
+building material,carpenter's tool,"['glass', 'metal']",hammer,hammer,shared,no,no,True,False,False,True,12,3
+building material,carpenter's tool,"['bricks', 'mortar']",hammer,hammer,shared,no,no,True,False,False,True,12,4
+building material,part of a building,"['metal', 'blocks']",wall,wall,q2_only,no,no,True,True,False,True,13,0
+building material,part of a building,"['blocks', 'bamboo']",arch,arch,invalid,no,no,True,True,False,True,13,1
+building material,part of a building,"['steel', 'glass']",brick,brick,invalid,yes,yes,True,False,True,False,13,2
+building material,part of a building,"['wood', 'tiles']",stone,stone,invalid,yes,yes,True,False,True,False,13,3
+building material,part of a building,"['blocks', 'concrete']",wall,wall,q2_only,no,no,True,True,False,True,13,4
+building material,tool,"['timber', 'plaster']",hammer,hammer,shared,no,no,True,False,False,True,14,0
+building material,tool,"['stone', 'insulation']",stone,stone,invalid,yes,yes,True,False,True,False,14,1
+building material,tool,"['nails', 'bamboo']",nails,nails,shared,no,no,True,False,False,True,14,2
+building material,tool,"['bamboo', 'metal']",hammer,hammer,shared,no,no,True,False,False,True,14,3
+building material,tool,"['plaster', 'metal']",pliers,pliers,q2_only,no,no,True,True,False,True,14,4
+carpenter's tool,gardening tool,"['saw', 'wood']",pruning shears,pruning shears,invalid,no,no,True,True,False,True,15,0
+carpenter's tool,gardening tool,"['hammer', 'chisel']",pruner,pruner,invalid,no,no,True,True,False,True,15,1
+carpenter's tool,gardening tool,"['spirit level', 'knife']",pruning shears,pruning shears,invalid,no,no,True,True,False,True,15,2
+carpenter's tool,gardening tool,"['wood', 'drill']",pruning shears,pruning shears,invalid,no,no,True,True,False,True,15,3
+carpenter's tool,gardening tool,"['nails', 'screwdriver']",pruning shear,pruning shear,invalid,no,no,True,True,False,True,15,4
+carpenter's tool,tool,"['file', 'chainsaw']",hammer,hammer,shared,yes,yes,True,True,True,False,16,0
+carpenter's tool,tool,"['drill', 'spirit level']",screwdriver,screwdriver,shared,yes,yes,True,True,True,False,16,1
+carpenter's tool,tool,"['ruler', 'screws']",hammer,hammer,shared,yes,yes,True,True,True,False,16,2
+carpenter's tool,tool,"['drill', 'nails']",hammer,hammer,shared,yes,yes,True,True,True,False,16,3
+carpenter's tool,tool,"['nails', 'saw']",hammer,hammer,shared,yes,yes,True,True,True,False,16,4
+carpenter's tool,weapon,"['wood', 'file']",sword,sword,q2_only,no,no,True,True,False,True,17,0
+carpenter's tool,weapon,"['saw', 'spanner']",saw,saw,invalid,yes,yes,True,False,True,False,17,1
+carpenter's tool,weapon,"['nails', 'spirit level']",sword,sword,q2_only,no,no,True,True,False,True,17,2
+carpenter's tool,weapon,"['screws', 'knife']",knife,knife,shared,no,no,True,False,False,True,17,3
+carpenter's tool,weapon,"['chainsaw', 'spanner']",knife,knife,shared,no,no,True,False,False,True,17,4
+chemical element,metal,"['arsenic', 'boron']",steel,steel,q2_only,no,no,True,True,False,True,18,0
+chemical element,metal,"['caesium', 'neon']",copper,copper,shared,yes,yes,True,True,True,False,18,1
+chemical element,metal,"['carbon', 'iodine']",iron,iron,shared,yes,yes,True,True,True,False,18,2
+chemical element,metal,"['lead', 'argon']",steel,steel,q2_only,no,no,True,True,False,True,18,3
+chemical element,metal,"['fluoride', 'copper']",iron,iron,shared,yes,yes,True,True,True,False,18,4
+colour,hair colour,"['green', 'indigo']",auburn,auburn,q2_only,yes,yes,True,False,True,False,19,0
+colour,hair colour,"['yellow', 'turquoise']",auburn,auburn,q2_only,yes,yes,True,False,True,False,19,1
+colour,hair colour,"['white', 'turquoise']",auburn,auburn,q2_only,yes,yes,True,False,True,False,19,2
+colour,hair colour,"['purple', 'brown']",auburn,auburn,q2_only,yes,yes,True,False,True,False,19,3
+colour,hair colour,"['beige', 'blue']",auburn,auburn,q2_only,yes,yes,True,False,True,False,19,4
+colour,metal,"['navy', 'indigo']",bronze,bronze,q2_only,no,no,True,True,False,True,20,0
+colour,metal,"['green', 'black']",iron,iron,q2_only,no,no,True,True,False,True,20,1
+colour,metal,"['white', 'burgundy']",bronze,bronze,q2_only,no,no,True,True,False,True,20,2
+colour,metal,"['red', 'grey']",steel,steel,q2_only,no,no,True,True,False,True,20,3
+colour,metal,"['indigo', 'lilac']",bronze,bronze,q2_only,no,no,True,True,False,True,20,4
+farm animal,four-legged animal,"['hen', 'chicken']",dog,dog,shared,no,no,True,False,False,True,21,0
+farm animal,four-legged animal,"['horse', 'lamb']",dog,dog,shared,no,no,True,False,False,True,21,1
+farm animal,four-legged animal,"['sheepdog', 'llama']",dog,dog,shared,no,no,True,False,False,True,21,2
+farm animal,four-legged animal,"['geese', 'cat']",dog,dog,shared,no,no,True,False,False,True,21,3
+farm animal,four-legged animal,"['lamb', 'rabbit']",dog,dog,shared,no,no,True,False,False,True,21,4
+farm animal,meat,"['cat', 'turkey']",turkey,turkey,shared,yes,yes,True,True,True,False,22,0
+farm animal,meat,"['llama', 'geese']",veal,veal,q2_only,yes,yes,True,False,True,False,22,1
+farm animal,meat,"['cow', 'sheepdog']",pork,pork,q2_only,no,no,True,True,False,True,22,2
+farm animal,meat,"['sheepdog', 'lamb']",lamb,lamb,shared,yes,yes,True,True,True,False,22,3
+farm animal,meat,"['horse', 'hen']",ham,ham,q2_only,no,no,True,True,False,True,22,4
+four-legged animal,meat,"['crocodile', 'goat']",bacon,bacon,q2_only,no,no,True,True,False,True,23,0
+four-legged animal,meat,"['gazelle', 'lion']",buffalo,buffalo,invalid,no,no,True,True,False,True,23,1
+four-legged animal,meat,"['rhino', 'anteater']",bacon,bacon,q2_only,no,no,True,True,False,True,23,2
+four-legged animal,meat,"['crocodile', 'pig']",taco,taco,invalid,no,no,True,True,False,True,23,3
+four-legged animal,meat,"['bison', 'lion']",veal,veal,q2_only,no,no,True,True,False,True,23,4
+four-legged animal,rodent,"['gazelle', 'pig']",mouse,mouse,shared,no,no,True,False,False,True,24,0
+four-legged animal,rodent,"['elephant', 'anteater']",rat,rat,shared,no,no,True,False,False,True,24,1
+four-legged animal,rodent,"['rat', 'wolf']",mouse,mouse,shared,no,no,True,False,False,True,24,2
+four-legged animal,rodent,"['frog', 'tiger']",rat,rat,shared,no,no,True,False,False,True,24,3
+four-legged animal,rodent,"['wolf', 'monkey']",rat,rat,shared,no,no,True,False,False,True,24,4
+four-wheeled vehicle,vehicle,"['gokart', 'van']",motorcycle,motorcycle,invalid,no,no,True,True,False,True,25,0
+four-wheeled vehicle,vehicle,"['plane', 'dune buggy']",boat,boat,q2_only,no,no,True,True,False,True,25,1
+four-wheeled vehicle,vehicle,"['jeep', 'van']",truck,truck,shared,yes,yes,True,True,True,False,25,2
+four-wheeled vehicle,vehicle,"['tractor', 'bus']",pickup truck,pickup truck,invalid,yes,yes,True,False,True,False,25,3
+four-wheeled vehicle,vehicle,"['jeep', 'quad bike']",bicycle,bicycle,q2_only,no,no,True,True,False,True,25,4
+furniture,living room furniture,"['stool', 'bookcase']",rug,rug,q2_only,no,no,True,True,False,True,26,0
+furniture,living room furniture,"['fridge', 'desk']",bookshelf,bookshelf,shared,yes,yes,True,True,True,False,26,1
+furniture,living room furniture,"['desk', 'sofa']",rug,rug,q2_only,no,no,True,True,False,True,26,2
+furniture,living room furniture,"['bookshelf', 'shelves']",rug,rug,q2_only,no,no,True,True,False,True,26,3
+furniture,living room furniture,"['bookshelf', 'fridge']",bookshelf,bookshelf,shared,yes,yes,True,True,True,False,26,4
+gardening tool,tool,"['hose', 'brush']",hammer,hammer,q2_only,no,no,True,True,False,True,27,0
+gardening tool,tool,"['secateurs', 'shears']",pruning shear,pruning shear,invalid,yes,yes,True,False,True,False,27,1
+gardening tool,tool,"['rake', 'hose']",hammer,hammer,q2_only,no,no,True,True,False,True,27,2
+gardening tool,tool,"['bucket', 'brush']",hammer,hammer,q2_only,no,no,True,True,False,True,27,3
+gardening tool,tool,"['gardening gloves', 'strimmer']",hammer,hammer,q2_only,no,no,True,True,False,True,27,4
+green vegetable,vegetable,"['celery', 'sugar snap peas']",zucchini,zucchini,invalid,yes,yes,True,False,True,False,28,0
+green vegetable,vegetable,"['broccoli', 'beans']",zucchini,zucchini,invalid,yes,yes,True,False,True,False,28,1
+green vegetable,vegetable,"['kale', 'broccoli']",carrot,carrot,q2_only,no,no,True,True,False,True,28,2
+green vegetable,vegetable,"['sugar snap peas', 'peas']",carrot,carrot,q2_only,no,no,True,True,False,True,28,3
+green vegetable,vegetable,"['peppers', 'celery']",onion,onion,q2_only,no,no,True,True,False,True,28,4
+herb,spice,"['dill', 'fennel']",cumin,cumin,q2_only,yes,yes,True,False,True,False,29,0
+herb,spice,"['lavender', 'rosemary']",thyme,thyme,invalid,yes,yes,True,False,True,False,29,1
+herb,spice,"['cinnamon', 'salt']",pepper,pepper,shared,no,no,True,False,False,True,29,2
+herb,spice,"['parsley', 'thyme']",cumin,cumin,q2_only,yes,yes,True,False,True,False,29,3
+herb,spice,"['dill', 'coriander']",cumin,cumin,q2_only,yes,yes,True,False,True,False,29,4
+insect,stinging insect,"['scorpions', 'woodlouse']",scorpion,scorpion,q2_only,no,no,True,True,False,True,30,0
+insect,stinging insect,"['housefly', 'grasshopper']",wasp,wasp,shared,yes,yes,True,True,True,False,30,1
+insect,stinging insect,"['earwig', 'centipede']",centipede,centipede,invalid,no,no,True,True,False,True,30,2
+insect,stinging insect,"['housefly', 'bee']",bee,bee,shared,yes,yes,True,True,True,False,30,3
+insect,stinging insect,"['mosquito', 'ant']",hornet,hornet,q2_only,yes,yes,True,False,True,False,30,4
+kitchen appliance,kitchen utensil,"['toaster', 'plate']",spatula,spatula,shared,yes,yes,True,True,True,False,31,0
+kitchen appliance,kitchen utensil,"['pan', 'smoothie maker']",spatula,spatula,shared,yes,yes,True,True,True,False,31,1
+kitchen appliance,kitchen utensil,"['bread maker', 'smoothie maker']",knife,knife,shared,no,no,True,False,False,True,31,2
+kitchen appliance,kitchen utensil,"['fork', 'food processor']",spatula,spatula,shared,yes,yes,True,True,True,False,31,3
+kitchen appliance,kitchen utensil,"['dishwasher', 'pot']",knife,knife,shared,no,no,True,False,False,True,31,4
+musical instrument,string instrument,"['xylophone', 'drums']",violin,violin,shared,yes,yes,True,True,True,False,32,0
+musical instrument,string instrument,"['xylophone', 'bongos']",violin,violin,shared,yes,yes,True,True,True,False,32,1
+musical instrument,string instrument,"['recorder', 'tuba']",recorder,recorder,invalid,yes,yes,True,False,True,False,32,2
+musical instrument,string instrument,"['double bass', 'keyboard']",violin,violin,shared,yes,yes,True,True,True,False,32,3
+musical instrument,string instrument,"['xylophone', 'oboe']",violin,violin,shared,yes,yes,True,True,True,False,32,4
+part of a building,room in a house,"['elevators', 'foundations']",hall,hall,invalid,yes,yes,True,False,True,False,33,0
+part of a building,room in a house,"['corridor', 'mortar']",bedroom,bedroom,q2_only,yes,yes,True,False,True,False,33,1
+part of a building,room in a house,"['plaster', 'outer wall']",bathroom,bathroom,shared,yes,yes,True,True,True,False,33,2
+part of a building,room in a house,"['bathroom', 'exit']",hall,hall,invalid,yes,yes,True,False,True,False,33,3
+part of a building,room in a house,"['beams', 'plaster']",hall,hall,invalid,yes,yes,True,False,True,False,33,4
+part of the body,part of the face,"['neck', 'back']",jaw,jaw,q2_only,yes,yes,True,False,True,False,34,0
+part of the body,part of the face,"['mouth', 'skeleton']",nose,nose,shared,yes,yes,True,True,True,False,34,1
+part of the body,part of the face,"['back', 'blood']",nose,nose,shared,yes,yes,True,True,True,False,34,2
+part of the body,part of the face,"['ribs', 'stomach']",eye,eye,invalid,yes,yes,True,False,True,False,34,3
+part of the body,part of the face,"['hands', 'brain']",nose,nose,shared,yes,yes,True,True,True,False,34,4
+tool,weapon,"['screws', 'spanner']",none,none,invalid,no,no,True,True,False,True,35,0
+tool,weapon,"['shovel', 'nails']",sword,sword,q2_only,no,no,True,True,False,True,35,1
+tool,weapon,"['drill', 'pen']",dagger,dagger,q2_only,no,no,True,True,False,True,35,2
+tool,weapon,"['nails', 'shovel']",sword,sword,q2_only,no,no,True,True,False,True,35,3
+tool,weapon,"['screws', 'axe']",spear,spear,q2_only,no,no,True,True,False,True,35,4
+deciduous tree,fruit tree,"['oak', 'willow']",apple,apple,shared,no,no,True,False,False,True,36,0
+deciduous tree,fruit tree,"['oak', 'walnut']",apple,apple,shared,no,no,True,False,False,True,36,1
+deciduous tree,fruit tree,"['chestnut', 'poplar']",pear,pear,shared,no,no,True,False,False,True,36,2
+deciduous tree,fruit tree,"['oak', 'ash']",apple,apple,shared,no,no,True,False,False,True,36,3
+deciduous tree,fruit tree,"['hickory', 'maple']",apple,apple,shared,no,no,True,False,False,True,36,4
+wild cat,jungle animal,"['cougar', 'bobcat']",leopard,leopard,shared,yes,yes,True,True,True,False,37,0
+wild cat,jungle animal,"['cheetah', 'lynx']",leopard,leopard,shared,yes,yes,True,True,True,False,37,1
+wild cat,jungle animal,"['lion', 'serval']",leopard,leopard,shared,yes,yes,True,True,True,False,37,2
+wild cat,jungle animal,"['caracal', 'snow leopard']",jaguar,jaguar,shared,yes,yes,True,True,True,False,37,3
+wild cat,jungle animal,"['ocelot', 'bobcat']",leopard,leopard,shared,yes,yes,True,True,True,False,37,4
+bathroom item,cleaning supply,"['toothpaste', 'razor']",duster,duster,q2_only,yes,yes,True,False,True,False,38,0
+bathroom item,cleaning supply,"['conditioner', 'plunger']",broom,broom,q2_only,no,no,True,True,False,True,38,1
+bathroom item,cleaning supply,"['towel', 'toothpaste']",rag,rag,invalid,yes,yes,True,False,True,False,38,2
+bathroom item,cleaning supply,"['towel', 'shampoo']",spray,spray,invalid,yes,yes,True,False,True,False,38,3
+bathroom item,cleaning supply,"['plunger', 'toilet brush']",broom,broom,q2_only,no,no,True,True,False,True,38,4
+school supply,art supply,"['highlighter', 'folder']",paintbrush,paintbrush,q2_only,no,no,True,True,False,True,39,0
+school supply,art supply,"['folder', 'textbook']",painting brushes,painting brushes,invalid,no,no,True,True,False,True,39,1
+school supply,art supply,"['notebook', 'calculator']",paintbrush,paintbrush,q2_only,no,no,True,True,False,True,39,2
+school supply,art supply,"['highlighter', 'scissors']",paintbrush,paintbrush,q2_only,no,no,True,True,False,True,39,3
+school supply,art supply,"['colored pencil', 'backpack']",painting,painting,invalid,no,no,True,True,False,True,39,4
+board game,strategy game,"['guess who', 'monopoly']",risk,Risk,shared,yes,yes,True,True,True,False,40,0
+board game,strategy game,"['cluedo', 'risk']",tetris,tetris,invalid,no,no,True,True,False,True,40,1
+board game,strategy game,"['guess who', 'boggle']",civilization,civilization,q2_only,no,no,True,True,False,True,40,2
+board game,strategy game,"['checkers', 'pandemic']",tetris,tetris,invalid,no,no,True,True,False,True,40,3
+board game,strategy game,"['ticket to ride', 'checkers']",tetris,tetris,invalid,no,no,True,True,False,True,40,4
+root vegetable,soup ingredient,"['turnip', 'taro']",chickpea,chickpea,invalid,no,no,True,True,False,True,41,0
+root vegetable,soup ingredient,"['yam', 'rutabaga']",celery,celery,q2_only,no,no,True,True,False,True,41,1
+root vegetable,soup ingredient,"['radish', 'taro']",tomato,tomato,q2_only,no,no,True,True,False,True,41,2
+root vegetable,soup ingredient,"['celeriac', 'jicama']",celery,celery,q2_only,no,no,True,True,False,True,41,3
+root vegetable,soup ingredient,"['carrot', 'parsnip']",beet,beet,invalid,yes,yes,True,False,True,False,41,4
+percussion instrument,marching band instrument,"['bongo', 'cajon']",tuba,tuba,q2_only,no,no,True,True,False,True,42,0
+percussion instrument,marching band instrument,"['maracas', 'bongo']",trombone,trombone,q2_only,no,no,True,True,False,True,42,1
+percussion instrument,marching band instrument,"['bass drum', 'djembe']",trombone,trombone,q2_only,no,no,True,True,False,True,42,2
+percussion instrument,marching band instrument,"['glockenspiel', 'triangle']",snare drum,snare drum,shared,yes,yes,True,True,True,False,42,3
+percussion instrument,marching band instrument,"['xylophone', 'djembe']",trombone,trombone,q2_only,no,no,True,True,False,True,42,4
+building material,natural resource,"['drywall', 'brick']",iron,iron,q2_only,yes,yes,True,False,True,False,43,0
+building material,natural resource,"['wood', 'sand']",oil,oil,q2_only,no,no,True,True,False,True,43,1
+building material,natural resource,"['timber', 'cement']",coal,coal,q2_only,no,no,True,True,False,True,43,2
+building material,natural resource,"['fiberglass', 'stone']",coal,coal,q2_only,no,no,True,True,False,True,43,3
+building material,natural resource,"['timber', 'asphalt']",coal,coal,q2_only,no,no,True,True,False,True,43,4
+weapon,hunting gear,"['cannon', 'knife']",bow,bow,shared,yes,yes,True,True,True,False,44,0
+weapon,hunting gear,"['bow', 'shotgun']",bow,bow,shared,yes,yes,True,True,True,False,44,1
+weapon,hunting gear,"['spear', 'bow']",bow,bow,shared,yes,yes,True,True,True,False,44,2
+weapon,hunting gear,"['knife', 'machine gun']",bow,bow,shared,yes,yes,True,True,True,False,44,3
+weapon,hunting gear,"['dagger', 'missile']",bow,bow,shared,yes,yes,True,True,True,False,44,4
+livestock,pack animal,"['chicken', 'duck']",camel,camel,q2_only,yes,yes,True,False,True,False,45,0
+livestock,pack animal,"['buffalo', 'goat']",camel,camel,q2_only,yes,yes,True,False,True,False,45,1
+livestock,pack animal,"['chicken', 'horse']",camel,camel,q2_only,yes,yes,True,False,True,False,45,2
+livestock,pack animal,"['sheep', 'pig']",camel,camel,q2_only,yes,yes,True,False,True,False,45,3
+livestock,pack animal,"['donkey', 'horse']",camel,camel,q2_only,yes,yes,True,False,True,False,45,4
+flower,wedding item,"['sunflower', 'peony']",cake,cake,q2_only,no,no,True,True,False,True,46,0
+flower,wedding item,"['marigold', 'dandelion']",ring,ring,q2_only,no,no,True,True,False,True,46,1
+flower,wedding item,"['daffodil', 'dandelion']",wedding cake,wedding cake,invalid,no,no,True,True,False,True,46,2
+flower,wedding item,"['hibiscus', 'lily']",cake,cake,q2_only,no,no,True,True,False,True,46,3
+flower,wedding item,"['marigold', 'violet']",ring,ring,q2_only,no,no,True,True,False,True,46,4
+beach item,summer clothing,"['towel', 'flip flops']",hat,hat,invalid,yes,yes,True,False,True,False,47,0
+beach item,summer clothing,"['umbrella', 'swimsuit']",sarong,sarong,invalid,no,no,True,True,False,True,47,1
+beach item,summer clothing,"['sunscreen', 'sunglasses']",hat,hat,invalid,yes,yes,True,False,True,False,47,2
+beach item,summer clothing,"['frisbee', 'surfboard']",swimsuit,swimsuit,shared,yes,yes,True,True,True,False,47,3
+beach item,summer clothing,"['sandcastle', 'bucket']",trunkampütte,trunkampütte,invalid,no,no,True,True,False,True,47,4
+vehicle,military equipment,"['train', 'motorcycle']",tank,tank,shared,yes,yes,True,True,True,False,48,0
+vehicle,military equipment,"['scooter', 'submarine']",bazooka,bazooka,invalid,no,no,True,True,False,True,48,1
+vehicle,military equipment,"['scooter', 'van']",bazooka,bazooka,invalid,no,no,True,True,False,True,48,2
+vehicle,military equipment,"['drone', 'jeep']",tank,tank,shared,yes,yes,True,True,True,False,48,3
+vehicle,military equipment,"['submarine', 'bus']",missile,missile,q2_only,no,no,True,True,False,True,48,4
+sweet treat,halloween item,"['lollipop', 'pudding']",mask,mask,q2_only,no,no,True,True,False,True,49,0
+sweet treat,halloween item,"['pudding', 'donut']",mask,mask,q2_only,no,no,True,True,False,True,49,1
+sweet treat,halloween item,"['chocolate', 'lollipop']",mask,mask,q2_only,no,no,True,True,False,True,49,2
+sweet treat,halloween item,"['pudding', 'donut']",mask,mask,q2_only,no,no,True,True,False,True,49,3
+sweet treat,halloween item,"['ice cream', 'macaron']",mask,mask,q2_only,no,no,True,True,False,True,49,4
+country in asia,island nation,"['iran', 'maldives']",bahamas,bahamas,q2_only,no,no,True,True,False,True,50,0
+country in asia,island nation,"['thailand', 'japan']",singapore,singapore,shared,no,no,True,False,False,True,50,1
+country in asia,island nation,"['taiwan', 'india']",singapore,singapore,shared,no,no,True,False,False,True,50,2
+country in asia,island nation,"['philippines', 'maldives']",cape verde,cape verde,invalid,no,no,True,True,False,True,50,3
+country in asia,island nation,"['china', 'nepal']",bahamas,bahamas,q2_only,no,no,True,True,False,True,50,4
+rodent,house pest,"['marmot', 'chipmunk']",rat,rat,shared,yes,yes,True,True,True,False,51,0
+rodent,house pest,"['vole', 'mouse']",ant,ant,q2_only,yes,yes,True,False,True,False,51,1
+rodent,house pest,"['hamster', 'marmot']",rat,rat,shared,yes,yes,True,True,True,False,51,2
+rodent,house pest,"['gerbil', 'groundhog']",rat,rat,shared,yes,yes,True,True,True,False,51,3
+rodent,house pest,"['squirrel', 'porcupine']",ant,ant,q2_only,yes,yes,True,False,True,False,51,4
+pizza topping,dairy product,"['tomato', 'parmesan']",butter,butter,q2_only,no,no,True,True,False,True,52,0
+pizza topping,dairy product,"['cheese', 'ricotta']",yogurt,yogurt,q2_only,no,no,True,True,False,True,52,1
+pizza topping,dairy product,"['bacon', 'onion']",cheese,cheese,shared,yes,yes,True,True,True,False,52,2
+pizza topping,dairy product,"['onion', 'olive']",cheese,cheese,shared,yes,yes,True,True,True,False,52,3
+pizza topping,dairy product,"['olive', 'bell pepper']",none,none,invalid,no,no,True,True,False,True,52,4
+water sport,extreme sport,"['wakeboarding', 'cliff diving']",skydiving,skydiving,q2_only,no,no,True,True,False,True,53,0
+water sport,extreme sport,"['wakeboarding', 'sailing']",skydiving,skydiving,q2_only,no,no,True,True,False,True,53,1
+water sport,extreme sport,"['snorkeling', 'swimming']",surfing,surfing,shared,yes,yes,True,True,True,False,53,2
+water sport,extreme sport,"['water polo', 'canoeing']",base jumping,base jumping,q2_only,no,no,True,True,False,True,53,3
+water sport,extreme sport,"['fishing', 'kayaking']",rock climbing,rock climbing,q2_only,no,no,True,True,False,True,53,4
+mythological creature,movie monster,"['zombie', 'minotaur']",mummy,mummy,shared,no,no,True,False,False,True,54,0
+mythological creature,movie monster,"['griffin', 'werewolf']",mummy,mummy,shared,no,no,True,False,False,True,54,1
+mythological creature,movie monster,"['mummy', 'centaur']",gorgon,gorgon,invalid,yes,yes,True,False,True,False,54,2
+mythological creature,movie monster,"['unicorn', 'mermaid']",mummy,mummy,shared,no,no,True,False,False,True,54,3
+mythological creature,movie monster,"['kraken', 'ghost']",mummy,mummy,shared,no,no,True,False,False,True,54,4
+hobby,outdoor activity,"['baking', 'reading']",hiking,hiking,shared,yes,yes,True,True,True,False,55,0
+hobby,outdoor activity,"['camping', 'pottery']",hiking,hiking,shared,yes,yes,True,True,True,False,55,1
+hobby,outdoor activity,"['fishing', 'pottery']",hiking,hiking,shared,yes,yes,True,True,True,False,55,2
+hobby,outdoor activity,"['gardening', 'photography']",hiking,hiking,shared,yes,yes,True,True,True,False,55,3
+hobby,outdoor activity,"['sewing', 'baking']",climbing,climbing,invalid,yes,yes,True,False,True,False,55,4
+ocean animal,aquarium pet,"['starfish', 'shark']",goldfish,goldfish,q2_only,no,no,True,True,False,True,56,0
+ocean animal,aquarium pet,"['starfish', 'sea turtle']",fish,fish,invalid,yes,yes,True,False,True,False,56,1
+ocean animal,aquarium pet,"['manatee', 'whale']",fish,fish,invalid,yes,yes,True,False,True,False,56,2
+ocean animal,aquarium pet,"['seal', 'starfish']",fish,fish,invalid,yes,yes,True,False,True,False,56,3
+ocean animal,aquarium pet,"['crab', 'eel']",fish,fish,invalid,yes,yes,True,False,True,False,56,4
+winter sport,olympic sport,"['bobsleigh', 'snowshoeing']",figure skating,figure skating,invalid,yes,yes,True,False,True,False,57,0
+winter sport,olympic sport,"['ski jumping', 'skeleton']",trampoline,trampoline,invalid,no,no,True,True,False,True,57,1
+winter sport,olympic sport,"['skeleton', 'sledding']",luge,luge,invalid,yes,yes,True,False,True,False,57,2
+winter sport,olympic sport,"['curling', 'sledding']",figure skating,figure skating,invalid,yes,yes,True,False,True,False,57,3
+winter sport,olympic sport,"['luge', 'biathlon']",snowboarding,snowboarding,shared,yes,yes,True,True,True,False,57,4
+citrus fruit,tropical fruit,"['calamansi', 'lemon']",mango,mango,q2_only,no,no,True,True,False,True,58,0
+citrus fruit,tropical fruit,"['bergamot', 'tangelo']",mango,mango,q2_only,no,no,True,True,False,True,58,1
+citrus fruit,tropical fruit,"['yuzu', 'tangelo']",mangosteen,mangosteen,invalid,no,no,True,True,False,True,58,2
+citrus fruit,tropical fruit,"['lemon', 'pomelo']",mango,mango,q2_only,no,no,True,True,False,True,58,3
+citrus fruit,tropical fruit,"['lemon', 'citron']",mango,mango,q2_only,no,no,True,True,False,True,58,4
+string instrument,orchestra instrument,"['banjo', 'guitar']",violin,violin,shared,yes,yes,True,True,True,False,59,0
+string instrument,orchestra instrument,"['banjo', 'mandolin']",violin,violin,shared,yes,yes,True,True,True,False,59,1
+string instrument,orchestra instrument,"['harp', 'viola']",trumpet,trumpet,q2_only,no,no,True,True,False,True,59,2
+string instrument,orchestra instrument,"['banjo', 'violin']",viola,viola,invalid,yes,yes,True,False,True,False,59,3
+string instrument,orchestra instrument,"['harp', 'viola']",trumpet,trumpet,q2_only,no,no,True,True,False,True,59,4
+european capital,coastal city,"['budapest', 'copenhagen']",portugal,portugal,invalid,no,no,True,True,False,True,60,0
+european capital,coastal city,"['london', 'berlin']",portugal,portugal,invalid,no,no,True,True,False,True,60,1
+european capital,coastal city,"['london', 'vienna']",crete,crete,invalid,no,no,True,True,False,True,60,2
+european capital,coastal city,"['lisbon', 'rome']",antalya,antalya,invalid,no,no,True,True,False,True,60,3
+european capital,coastal city,"['helsinki', 'oslo']",rennes,rennes,invalid,no,no,True,True,False,True,60,4
+fast food chain,pizza place,"['papa johns', 'burger king']",papa johns,papa johns,shared,no,no,True,False,False,True,61,0
+fast food chain,pizza place,"['kfc', 'dairy queen']",pizzeria,pizzeria,invalid,no,no,True,True,False,True,61,1
+fast food chain,pizza place,"['panera', 'chipotle']",pizzeria,pizzeria,invalid,no,no,True,True,False,True,61,2
+fast food chain,pizza place,"['mcdonalds', 'sonic']",pizzeria,pizzeria,invalid,no,no,True,True,False,True,61,3
+fast food chain,pizza place,"['dominos', 'arbys']",arbys,arby's,invalid,yes,yes,True,False,True,False,61,4
+hand tool,gardening tool,"['drill', 'tape measure']",pruning shears,pruning shears,invalid,yes,yes,True,False,True,False,62,0
+hand tool,gardening tool,"['screwdriver', 'drill']",pruning shears,pruning shears,invalid,yes,yes,True,False,True,False,62,1
+hand tool,gardening tool,"['drill', 'pruners']",hoe,hoe,q2_only,no,no,True,True,False,True,62,2
+hand tool,gardening tool,"['trowel', 'drill']",pruning shears,pruning shears,invalid,yes,yes,True,False,True,False,62,3
+hand tool,gardening tool,"['drill', 'hammer']",pruner,pruner,invalid,no,no,True,True,False,True,62,4
+flying insect,stinging insect,"['bee', 'housefly']",hornet,hornet,shared,no,no,True,False,False,True,63,0
+flying insect,stinging insect,"['firefly', 'ladybug']",hornet,hornet,shared,no,no,True,False,False,True,63,1
+flying insect,stinging insect,"['ladybug', 'moth']",hornet,hornet,shared,no,no,True,False,False,True,63,2
+flying insect,stinging insect,"['fruit fly', 'gnat']",hornet,hornet,shared,no,no,True,False,False,True,63,3
+flying insect,stinging insect,"['firefly', 'fruit fly']",hornet,hornet,shared,no,no,True,False,False,True,63,4
+carnivore,african animal,"['snake', 'crocodile']",lion,lion,shared,yes,yes,True,True,True,False,64,0
+carnivore,african animal,"['hawk', 'wolf']",lion,lion,shared,yes,yes,True,True,True,False,64,1
+carnivore,african animal,"['fox', 'wolf']",lion,lion,shared,yes,yes,True,True,True,False,64,2
+carnivore,african animal,"['tiger', 'snake']",giraffe,giraffe,q2_only,no,no,True,True,False,True,64,3
+carnivore,african animal,"['fox', 'crocodile']",lion,lion,shared,yes,yes,True,True,True,False,64,4
+footwear,winter clothing,"['heels', 'sneakers']",coat,coat,q2_only,no,no,True,True,False,True,65,0
+footwear,winter clothing,"['snow boots', 'wedges']",coat,coat,q2_only,no,no,True,True,False,True,65,1
+footwear,winter clothing,"['flip flops', 'heels']",coat,coat,q2_only,no,no,True,True,False,True,65,2
+footwear,winter clothing,"['loafers', 'water shoes']",mittens,mittens,q2_only,no,no,True,True,False,True,65,3
+footwear,winter clothing,"['snow boots', 'sneakers']",mittens,mittens,q2_only,no,no,True,True,False,True,65,4
+red fruit,berry,"['strawberry', 'blood orange']",raspberry,raspberry,shared,yes,yes,True,True,True,False,66,0
+red fruit,berry,"['redcurrant', 'blood orange']",strawberry,strawberry,shared,yes,yes,True,True,True,False,66,1
+red fruit,berry,"['pomegranate', 'rhubarb']",strawberry,strawberry,shared,yes,yes,True,True,True,False,66,2
+red fruit,berry,"['plum', 'watermelon']",raspberry,raspberry,shared,yes,yes,True,True,True,False,66,3
+red fruit,berry,"['rhubarb', 'cherry']",strawberry,strawberry,shared,yes,yes,True,True,True,False,66,4
+party game,card game,"['apples to apples', 'werewolf']",blackjack,blackjack,q2_only,no,no,True,True,False,True,67,0
+party game,card game,"['scattergories', 'uno']",rummy,rummy,q2_only,no,no,True,True,False,True,67,1
+party game,card game,"['mafia', 'twister']",blackjack,blackjack,q2_only,no,no,True,True,False,True,67,2
+party game,card game,"['uno', 'werewolf']",go fish,go Fish,q2_only,yes,yes,True,False,True,False,67,3
+party game,card game,"['codenames', 'werewolf']",go fish,go fish,q2_only,yes,yes,True,False,True,False,67,4
+hot drink,caffeinated drink,"['coffee', 'hot chocolate']",tea,tea,invalid,yes,yes,True,False,True,False,68,0
+hot drink,caffeinated drink,"['warm milk', 'mocha']",espresso,espresso,shared,yes,yes,True,True,True,False,68,1
+hot drink,caffeinated drink,"['chai', 'herbal tea']",espresso,espresso,shared,yes,yes,True,True,True,False,68,2
+hot drink,caffeinated drink,"['cappuccino', 'coffee']",tea,tea,invalid,yes,yes,True,False,True,False,68,3
+hot drink,caffeinated drink,"['hot chocolate', 'tea']",coffee,coffee,shared,yes,yes,True,True,True,False,68,4
+furniture,wood object,"['ottoman', 'bed']",ottoman,ottoman,invalid,yes,yes,True,False,True,False,69,0
+furniture,wood object,"['nightstand', 'chair']",nightstand,nightstand,invalid,yes,yes,True,False,True,False,69,1
+furniture,wood object,"['cabinet', 'dresser']",dresser,dresser,invalid,yes,yes,True,False,True,False,69,2
+furniture,wood object,"['bookshelf', 'dresser']",book,book,invalid,no,no,True,True,False,True,69,3
+furniture,wood object,"['stool', 'desk']",table,table,shared,yes,yes,True,True,True,False,69,4
+reptile,pet,"['python', 'gecko']",ferret,ferret,q2_only,no,no,True,True,False,True,70,0
+reptile,pet,"['crocodile', 'komodo dragon']",fish,fish,invalid,no,no,True,True,False,True,70,1
+reptile,pet,"['alligator', 'python']",fish,fish,invalid,no,no,True,True,False,True,70,2
+reptile,pet,"['anaconda', 'gecko']",goldfish,goldfish,q2_only,no,no,True,True,False,True,70,3
+reptile,pet,"['crocodile', 'lizard']",fish,fish,invalid,no,no,True,True,False,True,70,4
+breakfast food,baked good,"['bagel', 'french toast']",pancake,pancake,invalid,yes,yes,True,False,True,False,71,0
+breakfast food,baked good,"['waffles', 'french toast']",croissant,croissant,shared,yes,yes,True,True,True,False,71,1
+breakfast food,baked good,"['fruit salad', 'sausage']",croissant,croissant,shared,yes,yes,True,True,True,False,71,2
+breakfast food,baked good,"['yogurt', 'french toast']",bagel,bagel,shared,yes,yes,True,True,True,False,71,3
+breakfast food,baked good,"['french toast', 'yogurt']",cake,cake,q2_only,no,no,True,True,False,True,71,4
+precious metal,jewelry material,"['gold', 'iridium']",diamond,diamond,q2_only,no,no,True,True,False,True,72,0
+precious metal,jewelry material,"['copper', 'titanium']",gold,gold,shared,yes,yes,True,True,True,False,72,1
+precious metal,jewelry material,"['iridium', 'ruthenium']",diamond,diamond,q2_only,no,no,True,True,False,True,72,2
+precious metal,jewelry material,"['bronze', 'copper']",gold,gold,shared,yes,yes,True,True,True,False,72,3
+precious metal,jewelry material,"['platinum', 'titanium']",gold,gold,shared,yes,yes,True,True,True,False,72,4
+transport with wheels,public transport,"['skateboard', 'bus']",bus,bus,shared,yes,yes,True,True,True,False,73,0
+transport with wheels,public transport,"['tractor', 'bicycle']",bus,bus,shared,yes,yes,True,True,True,False,73,1
+transport with wheels,public transport,"['tram', 'golf cart']",bus,bus,shared,yes,yes,True,True,True,False,73,2
+transport with wheels,public transport,"['tractor', 'motorcycle']",bus,bus,shared,yes,yes,True,True,True,False,73,3
+transport with wheels,public transport,"['bus', 'skateboard']",bus,bus,shared,yes,yes,True,True,True,False,73,4
+yellow food,dessert,"['cheese', 'turmeric']",cake,cake,q2_only,no,no,True,True,False,True,74,0
+yellow food,dessert,"['butter', 'corn']",cake,cake,q2_only,no,no,True,True,False,True,74,1
+yellow food,dessert,"['squash', 'saffron']",pudding,pudding,q2_only,no,no,True,True,False,True,74,2
+yellow food,dessert,"['mango', 'butter']",mango,mango,invalid,no,no,True,True,False,True,74,3
+yellow food,dessert,"['flan', 'egg yolk']",pudding,pudding,q2_only,no,no,True,True,False,True,74,4
+computer peripheral,office supply,"['flash drive', 'graphics tablet']",paperclip,paperclip,invalid,no,no,True,True,False,True,75,0
+computer peripheral,office supply,"['monitor', 'graphics tablet']",paperclip,paperclip,invalid,no,no,True,True,False,True,75,1
+computer peripheral,office supply,"['external hard drive', 'flash drive']",paperclip,paperclip,invalid,no,no,True,True,False,True,75,2
+computer peripheral,office supply,"['mousepad', 'flash drive']",paperclip,paperclip,invalid,no,no,True,True,False,True,75,3
+computer peripheral,office supply,"['webcam', 'joystick']",paper,paper,q2_only,no,no,True,True,False,True,75,4
+clothing brand,luxury brand,"['puma', 'uniqlo']",louis vuitton,louis vuitton,shared,yes,yes,True,True,True,False,76,0
+clothing brand,luxury brand,"['gucci', 'nike']",louis vuitton,louis vuitton,shared,yes,yes,True,True,True,False,76,1
+clothing brand,luxury brand,"['supreme', 'gucci']",louis vuitton,louis vuitton,shared,yes,yes,True,True,True,False,76,2
+clothing brand,luxury brand,"['gap', ""levi's""]",louis vuitton,louis vuitton,shared,yes,yes,True,True,True,False,76,3
+clothing brand,luxury brand,"['gucci', ""levi's""]",louis vuitton,louis vuitton,shared,yes,yes,True,True,True,False,76,4
+french food,cheese,"['quiche', 'ratatouille']",brie,brie,shared,yes,yes,True,True,True,False,77,0
+french food,cheese,"['crepe', 'coq au vin']",crouton,crouton,invalid,no,no,True,True,False,True,77,1
+french food,cheese,"['escargot', 'crepe']",escargot,escargot,invalid,yes,yes,True,False,True,False,77,2
+french food,cheese,"['munster', 'camembert']",brie,brie,shared,yes,yes,True,True,True,False,77,3
+french food,cheese,"['crepe', 'camembert']",brie,brie,shared,yes,yes,True,True,True,False,77,4
+mythological hero,constellation,"['odysseus', 'theseus']",odysseus,odysseus,invalid,yes,yes,True,False,True,False,78,0
+mythological hero,constellation,"['jason', 'achilles']",jason,jason,invalid,yes,yes,True,False,True,False,78,1
+mythological hero,constellation,"['aeneas', 'beowulf']",aeneas,aeneas,invalid,yes,yes,True,False,True,False,78,2
+mythological hero,constellation,"['castor', 'hector']",castor,castor,invalid,no,no,True,True,False,True,78,3
+mythological hero,constellation,"['beowulf', 'odysseus']",beowulf,beowulf,invalid,yes,yes,True,False,True,False,78,4
+heavy machinery,farm equipment,"['plow', 'backhoe']",tractor,tractor,shared,yes,yes,True,True,True,False,79,0
+heavy machinery,farm equipment,"['grader', 'excavator']",plow,plow,shared,no,no,True,False,False,True,79,1
+heavy machinery,farm equipment,"['bulldozer', 'steamroller']",plow,plow,shared,no,no,True,False,False,True,79,2
+heavy machinery,farm equipment,"['loader', 'grader']",tractor,tractor,shared,yes,yes,True,True,True,False,79,3
+heavy machinery,farm equipment,"['forklift', 'plow']",tractor,tractor,shared,yes,yes,True,True,True,False,79,4
+german brand,car brand,"['porsche', 'puma']",lamborghini,lamborghini,invalid,no,no,True,True,False,True,80,0
+german brand,car brand,"['hugo boss', 'bosch']",audi,audi,shared,yes,yes,True,True,True,False,80,1
+german brand,car brand,"['mercedes', 'sap']",porsche,porsche,shared,yes,yes,True,True,True,False,80,2
+german brand,car brand,"['audi', 'bayer']",lamborghini,lamborghini,invalid,no,no,True,True,False,True,80,3
+german brand,car brand,"['volkswagen', 'hugo boss']",audi,audi,shared,yes,yes,True,True,True,False,80,4
+hospital staff,medical profession,"['porter', 'anesthesiologist']",radiologist,radiologist,invalid,yes,yes,True,False,True,False,81,0
+hospital staff,medical profession,"['technician', 'orderly']",nurse,nurse,shared,yes,yes,True,True,True,False,81,1
+hospital staff,medical profession,"['pediatrician', 'cook']",surgeon,surgeon,shared,yes,yes,True,True,True,False,81,2
+hospital staff,medical profession,"['nurse', 'cook']",doctor,doctor,invalid,yes,yes,True,False,True,False,81,3
+hospital staff,medical profession,"['receptionist', 'security guard']",nurse,nurse,shared,yes,yes,True,True,True,False,81,4
+folk instrument,woodwind instrument,"['bouzouki', 'banjo']",flute,flute,q2_only,yes,yes,True,False,True,False,82,0
+folk instrument,woodwind instrument,"['banjo', 'fife']",clarinet,clarinet,q2_only,no,no,True,True,False,True,82,1
+folk instrument,woodwind instrument,"['fiddle', 'recorder']",flute,flute,q2_only,yes,yes,True,False,True,False,82,2
+folk instrument,woodwind instrument,"['acoustic guitar', 'bagpipes']",oboe,oboe,q2_only,yes,yes,True,False,True,False,82,3
+folk instrument,woodwind instrument,"['hurdy gurdy', 'bouzouki']",oboe,oboe,q2_only,yes,yes,True,False,True,False,82,4
+camping gear,rain gear,"['tarp', 'rain boots']",raincoat,raincoat,invalid,yes,yes,True,False,True,False,83,0
+camping gear,rain gear,"['lantern', 'hiking boots']",raincoat,raincoat,invalid,yes,yes,True,False,True,False,83,1
+camping gear,rain gear,"['headlamp', 'folding chair']",raincoat,raincoat,invalid,yes,yes,True,False,True,False,83,2
+camping gear,rain gear,"['rain boots', 'folding chair']",rain boots,rain boots,shared,no,no,True,False,False,True,83,3
+camping gear,rain gear,"['folding chair', 'water filter']",raincoat,raincoat,invalid,yes,yes,True,False,True,False,83,4
+soup,noodle dish,"['chicken noodle', 'pho']",ramen,ramen,shared,yes,yes,True,True,True,False,84,0
+soup,noodle dish,"['udon', 'pho']",ramen,ramen,shared,yes,yes,True,True,True,False,84,1
+soup,noodle dish,"['ramen', 'tomato soup']",udon,udon,shared,no,no,True,False,False,True,84,2
+soup,noodle dish,"['bouillabaisse', 'split pea']",udon,udon,shared,no,no,True,False,False,True,84,3
+soup,noodle dish,"['lentil soup', 'ramen']",udon,udon,shared,no,no,True,False,False,True,84,4
+metal,chemical element,"['gold', 'silver']",mercury,mercury,invalid,yes,yes,True,False,True,False,85,0
+metal,chemical element,"['electrum', 'bronze']",mercury,mercury,invalid,yes,yes,True,False,True,False,85,1
+metal,chemical element,"['silver', 'iron']",gold,gold,shared,yes,yes,True,True,True,False,85,2
+metal,chemical element,"['cast iron', 'steel']",iron,iron,shared,yes,yes,True,True,True,False,85,3
+metal,chemical element,"['amalgam', 'copper']",mercury,mercury,invalid,yes,yes,True,False,True,False,85,4
+spanish speaking country,south american country,"['venezuela', 'nicaragua']",bolivia,bolivia,q2_only,yes,yes,True,False,True,False,86,0
+spanish speaking country,south american country,"['chile', 'venezuela']",bolivia,bolivia,q2_only,yes,yes,True,False,True,False,86,1
+spanish speaking country,south american country,"['colombia', 'venezuela']",bolivia,bolivia,q2_only,yes,yes,True,False,True,False,86,2
+spanish speaking country,south american country,"['spain', 'colombia']",argentina,argentina,shared,yes,yes,True,True,True,False,86,3
+spanish speaking country,south american country,"['cuba', 'costa rica']",bolivia,bolivia,q2_only,yes,yes,True,False,True,False,86,4
+venomous animal,australian animal,"['stingray', 'scorpion']",kangaroo,kangaroo,q2_only,no,no,True,True,False,True,87,0
+venomous animal,australian animal,"['platypus', 'inland taipan']",kangaroo,kangaroo,q2_only,no,no,True,True,False,True,87,1
+venomous animal,australian animal,"['funnel-web spider', 'stonefish']",kangaroo,kangaroo,q2_only,no,no,True,True,False,True,87,2
+venomous animal,australian animal,"['platypus', 'box jellyfish']",kangaroo,kangaroo,q2_only,no,no,True,True,False,True,87,3
+venomous animal,australian animal,"['inland taipan', 'stonefish']",kangaroo,kangaroo,q2_only,no,no,True,True,False,True,87,4
+salty snack,movie theater food,"['pretzel', 'sunflower seeds']",popcorn,popcorn,shared,yes,yes,True,True,True,False,88,0
+salty snack,movie theater food,"['pretzel', 'tortilla chips']",popcorn,popcorn,shared,yes,yes,True,True,True,False,88,1
+salty snack,movie theater food,"['rice cakes', 'mixed nuts']",popcorn,popcorn,shared,yes,yes,True,True,True,False,88,2
+salty snack,movie theater food,"['rice cakes', 'mixed nuts']",popcorn,popcorn,shared,yes,yes,True,True,True,False,88,3
+salty snack,movie theater food,"['trail mix', 'nachos']",popcorn,popcorn,shared,yes,yes,True,True,True,False,88,4
+tech giant,streaming service,"['cisco', 'microsoft']",none,none,invalid,no,no,True,True,False,True,89,0
+tech giant,streaming service,"['cisco', 'amazon']",none,none,invalid,no,no,True,True,False,True,89,1
+tech giant,streaming service,"['intel', 'adobe']",none,none,invalid,no,no,True,True,False,True,89,2
+tech giant,streaming service,"['twitch', 'nvidia']",crunchyroll,crunchyroll,q2_only,no,no,True,True,False,True,89,3
+tech giant,streaming service,"['apple', 'cisco']",none,none,invalid,no,no,True,True,False,True,89,4
+flightless bird,antarctic animal,"['adelie penguin', 'galapagos cormorant']",icefish,icefish,invalid,no,no,True,True,False,True,90,0
+flightless bird,antarctic animal,"['cassowary', 'macaroni penguin']",polar bear,polar bear,invalid,no,no,True,True,False,True,90,1
+flightless bird,antarctic animal,"['ostrich', 'emperor penguin']",emperor penguin,emperor penguin,shared,yes,yes,True,True,True,False,90,2
+flightless bird,antarctic animal,"['macaroni penguin', 'steamer duck']",polar bear,polar bear,invalid,no,no,True,True,False,True,90,3
+flightless bird,antarctic animal,"['cassowary', 'emperor penguin']",emperor penguin,emperor penguin,shared,yes,yes,True,True,True,False,90,4
+school subject,craft,"['physics', 'art']",art,art,shared,no,no,True,False,False,True,91,0
+school subject,craft,"['pottery', 'chemistry']",pottery,pottery,shared,no,no,True,False,False,True,91,1
+school subject,craft,"['chemistry', 'art']",art,art,shared,no,no,True,False,False,True,91,2
+school subject,craft,"['english', 'ceramics']",pottery,pottery,shared,no,no,True,False,False,True,91,3
+school subject,craft,"['geography', 'physical education']",crafts,crafts,invalid,no,no,True,True,False,True,91,4
+houseplant,succulent,"['haworthia', 'pothos']",haworthia,haworthia,shared,yes,yes,True,True,True,False,92,0
+houseplant,succulent,"['string of pearls', 'calathea']",string of pearls,string of pearls,shared,yes,yes,True,True,True,False,92,1
+houseplant,succulent,"['snake plant', 'rubber plant']",string of pearls,string of pearls,shared,yes,yes,True,True,True,False,92,2
+houseplant,succulent,"['fern', 'jade plant']",cactus,cactus,q2_only,yes,yes,True,False,True,False,92,3
+houseplant,succulent,"['string of pearls', 'monstera']",string of pearls,string of pearls,shared,yes,yes,True,True,True,False,92,4
+uniformed profession,medical profession,"['mechanic', 'flight attendant']",nurse,nurse,shared,yes,yes,True,True,True,False,93,0
+uniformed profession,medical profession,"['pilot', 'paramedic']",nurse,nurse,shared,yes,yes,True,True,True,False,93,1
+uniformed profession,medical profession,"['firefighter', 'security guard']",nurse,nurse,shared,yes,yes,True,True,True,False,93,2
+uniformed profession,medical profession,"['soldier', 'surgeon']",nurse,nurse,shared,yes,yes,True,True,True,False,93,3
+uniformed profession,medical profession,"['mechanic', 'nurse']",nurse,nurse,shared,yes,yes,True,True,True,False,93,4
+watercraft,recreational vehicle,"['canoe', 'galleon']",boat,boat,invalid,yes,yes,True,False,True,False,94,0
+watercraft,recreational vehicle,"['barge', 'trawler']",motorhome,motorhome,q2_only,no,no,True,True,False,True,94,1
+watercraft,recreational vehicle,"['ferry', 'galleon']",motorhome,motorhome,q2_only,no,no,True,True,False,True,94,2
+watercraft,recreational vehicle,"['jet ski', 'ferry']",motorhome,motorhome,q2_only,no,no,True,True,False,True,94,3
+watercraft,recreational vehicle,"['submarine', 'pontoon boat']",motorhome,motorhome,q2_only,no,no,True,True,False,True,94,4
+dietary supplement,mineral,"['calcium', 'ginseng']",quartz,quartz,q2_only,no,no,True,True,False,True,95,0
+dietary supplement,mineral,"['vitamin c', 'melatonin']",copper,copper,invalid,no,no,True,True,False,True,95,1
+dietary supplement,mineral,"['iron', 'probiotics']",copper,copper,invalid,no,no,True,True,False,True,95,2
+dietary supplement,mineral,"['calcium', 'fish oil']",quartz,quartz,q2_only,no,no,True,True,False,True,95,3
+dietary supplement,mineral,"['vitamin c', 'iron']",copper,copper,invalid,no,no,True,True,False,True,95,4
+green fruit,salad ingredient,"['lime', 'honeydew']",avocado,avocado,shared,no,no,True,False,False,True,96,0
+green fruit,salad ingredient,"['green tomato', 'honeydew']",avocado,avocado,shared,no,no,True,False,False,True,96,1
+green fruit,salad ingredient,"['green tomato', 'breadfruit']",avocado,avocado,shared,no,no,True,False,False,True,96,2
+green fruit,salad ingredient,"['starfruit', 'pear']",pineapple,pineapple,invalid,no,no,True,True,False,True,96,3
+green fruit,salad ingredient,"['zucchini', 'breadfruit']",pineapple,pineapple,invalid,no,no,True,True,False,True,96,4
+bird of prey,scavenger,"['eagle', 'vulture']",hawk,hawk,invalid,yes,yes,True,False,True,False,97,0
+bird of prey,scavenger,"['kestrel', 'condor']",hawk,hawk,invalid,yes,yes,True,False,True,False,97,1
+bird of prey,scavenger,"['owl', 'goshawk']",hawk,hawk,invalid,yes,yes,True,False,True,False,97,2
+bird of prey,scavenger,"['kestrel', 'falcon']",hawk,hawk,invalid,yes,yes,True,False,True,False,97,3
+bird of prey,scavenger,"['falcon', 'kite']",hawk,hawk,invalid,yes,yes,True,False,True,False,97,4
+brass instrument,jazz instrument,"['flugelhorn', 'sackbut']",trumpet,trumpet,shared,yes,yes,True,True,True,False,98,0
+brass instrument,jazz instrument,"['baritone horn', 'serpent']",trombone,trombone,shared,yes,yes,True,True,True,False,98,1
+brass instrument,jazz instrument,"['vuvuzela', 'bugle']",trumpet,trumpet,shared,yes,yes,True,True,True,False,98,2
+brass instrument,jazz instrument,"['sackbut', 'serpent']",trumpet,trumpet,shared,yes,yes,True,True,True,False,98,3
+brass instrument,jazz instrument,"['alpenhorn', 'trumpet']",trumpet,trumpet,shared,yes,yes,True,True,True,False,98,4
+european country,nato member,"['france', 'switzerland']",belgium,belgium,q2_only,yes,yes,True,False,True,False,99,0
+european country,nato member,"['greece', 'sweden']",montenegro,montenegro,invalid,yes,yes,True,False,True,False,99,1
+european country,nato member,"['spain', 'switzerland']",bulgaria,bulgaria,invalid,yes,yes,True,False,True,False,99,2
+european country,nato member,"['spain', 'finland']",norway,norway,q2_only,yes,yes,True,False,True,False,99,3
+european country,nato member,"['sweden', 'serbia']",norway,norway,q2_only,yes,yes,True,False,True,False,99,4
+gym equipment,home workout equipment,"['rowing machine', 'dumbbell']",exercise bike,exercise bike,invalid,yes,yes,True,False,True,False,100,0
+gym equipment,home workout equipment,"['yoga mat', 'smith machine']",dumbbell,dumbbell,shared,yes,yes,True,True,True,False,100,1
+gym equipment,home workout equipment,"['elliptical', 'rowing machine']",treadmill,treadmill,invalid,yes,yes,True,False,True,False,100,2
+gym equipment,home workout equipment,"['bench press', 'cable machine']",elliptical treadmill,elliptical treadmill,invalid,no,no,True,True,False,True,100,3
+gym equipment,home workout equipment,"['bench press', 'rowing machine']",exercise bike,exercise bike,invalid,yes,yes,True,False,True,False,100,4
+kitchen appliance,smart home device,"['blender', 'air fryer']",smartwatch,smartwatch,invalid,no,no,True,True,False,True,101,0
+kitchen appliance,smart home device,"['food processor', 'toaster']",light bulb,light bulb,invalid,no,no,True,True,False,True,101,1
+kitchen appliance,smart home device,"['stand mixer', 'blender']",light bulb,light bulb,invalid,no,no,True,True,False,True,101,2
+kitchen appliance,smart home device,"['coffee maker', 'rice cooker']",thermostat,thermostat,q2_only,no,no,True,True,False,True,101,3
+kitchen appliance,smart home device,"['refrigerator', 'dishwasher']",light bulb,light bulb,invalid,no,no,True,True,False,True,101,4
+pasta shape,italian food,"['farfalle', 'cannelloni']",bruschetta,bruschetta,q2_only,no,no,True,True,False,True,102,0
+pasta shape,italian food,"['penne', 'fettuccine']",spaghetti,spaghetti,shared,yes,yes,True,True,True,False,102,1
+pasta shape,italian food,"['orzo', 'farfalle']",risotto,risotto,q2_only,no,no,True,True,False,True,102,2
+pasta shape,italian food,"['ziti', 'farfalle']",ravioli,ravioli,shared,no,no,True,False,False,True,102,3
+pasta shape,italian food,"['lasagna', 'spaghetti']",pizza,pizza,q2_only,no,no,True,True,False,True,102,4
+dog breed,working dog,"['poodle', 'beagle']",retriever,retriever,invalid,yes,yes,True,False,True,False,103,0
+dog breed,working dog,"['doberman', 'chihuahua']",retriever,retriever,invalid,yes,yes,True,False,True,False,103,1
+dog breed,working dog,"['german shepherd', 'corgi']",retriever,retriever,invalid,yes,yes,True,False,True,False,103,2
+dog breed,working dog,"['poodle', 'dachshund']",retriever,retriever,invalid,yes,yes,True,False,True,False,103,3
+dog breed,working dog,"['beagle', 'doberman']",retriever,retriever,invalid,yes,yes,True,False,True,False,103,4
+social media platform,messaging app,"['threads', 'youtube']",whatsapp,whatsapp,shared,no,no,True,False,False,True,104,0
+social media platform,messaging app,"['youtube', 'tiktok']",whatsapp,whatsapp,shared,no,no,True,False,False,True,104,1
+social media platform,messaging app,"['pinterest', 'youtube']",telegram,telegram,q2_only,no,no,True,True,False,True,104,2
+social media platform,messaging app,"['tiktok', 'snapchat']",whatsapp,whatsapp,shared,no,no,True,False,False,True,104,3
+social media platform,messaging app,"['twitch', 'tumblr']",whatsapp,whatsapp,shared,no,no,True,False,False,True,104,4
+freshwater fish,game fish,"['perch', 'goldfish']",perch,perch,invalid,yes,yes,True,False,True,False,105,0
+freshwater fish,game fish,"['bluegill', 'crappie']",salmon,salmon,invalid,no,no,True,True,False,True,105,1
+freshwater fish,game fish,"['bluegill', 'sturgeon']",tuna,tuna,q2_only,no,no,True,True,False,True,105,2
+freshwater fish,game fish,"['tetra', 'carp']",trout,trout,shared,yes,yes,True,True,True,False,105,3
+freshwater fish,game fish,"['muskie', 'guppy']",muskie,muskie,shared,yes,yes,True,True,True,False,105,4
+programming language,web technology,"['python', 'php']",javascript,javascript,shared,yes,yes,True,True,True,False,106,0
+programming language,web technology,"['fortran', 'typescript']",javascript,javascript,shared,yes,yes,True,True,True,False,106,1
+programming language,web technology,"['javascript', 'bash']",html,html,q2_only,no,no,True,True,False,True,106,2
+programming language,web technology,"['rust', 'assembly']",javascript,javascript,shared,yes,yes,True,True,True,False,106,3
+programming language,web technology,"['rust', 'ruby']",javascript,javascript,shared,yes,yes,True,True,True,False,106,4
+comic book hero,avenger,"['thor', 'flash']",hulk,hulk,shared,yes,yes,True,True,True,False,107,0
+comic book hero,avenger,"['spawn', 'flash']",hawkeye,hawkeye,q2_only,no,no,True,True,False,True,107,1
+comic book hero,avenger,"['green lantern', 'wolverine']",hawkeye,hawkeye,q2_only,no,no,True,True,False,True,107,2
+comic book hero,avenger,"['hulk', 'aquaman']",ironman,ironman,invalid,yes,yes,True,False,True,False,107,3
+comic book hero,avenger,"['spawn', 'invincible']",hawkeye,hawkeye,q2_only,no,no,True,True,False,True,107,4
+herbivore,farm animal,"['goat', 'horse']",pig,pig,q2_only,no,no,True,True,False,True,108,0
+herbivore,farm animal,"['deer', 'rhino']",pig,pig,q2_only,no,no,True,True,False,True,108,1
+herbivore,farm animal,"['deer', 'rabbit']",pig,pig,q2_only,no,no,True,True,False,True,108,2
+herbivore,farm animal,"['kangaroo', 'elephant']",kangaroo,kangaroo,invalid,no,no,True,True,False,True,108,3
+herbivore,farm animal,"['moose', 'horse']",pig,pig,q2_only,no,no,True,True,False,True,108,4
+footwear brand,sports brand,"['steve madden', 'reebok']",nike,nike,shared,yes,yes,True,True,True,False,109,0
+footwear brand,sports brand,"['timberland', 'birkenstock']",nike,nike,shared,yes,yes,True,True,True,False,109,1
+footwear brand,sports brand,"['skechers', 'nike']",nike,nike,shared,yes,yes,True,True,True,False,109,2
+footwear brand,sports brand,"['nike', 'ugg']",nike,nike,shared,yes,yes,True,True,True,False,109,3
+footwear brand,sports brand,"['crocs', 'puma']",nike,nike,shared,yes,yes,True,True,True,False,109,4
+nut,baking ingredient,"['acorn', 'cashew']",butter,butter,q2_only,no,no,True,True,False,True,110,0
+nut,baking ingredient,"['pecan', 'walnut']",baking powder,baking powder,q2_only,no,no,True,True,False,True,110,1
+nut,baking ingredient,"['pistachio', 'pecan']",baking soda,baking soda,q2_only,no,no,True,True,False,True,110,2
+nut,baking ingredient,"['hickory nut', 'cashew']",butter,butter,q2_only,no,no,True,True,False,True,110,3
+nut,baking ingredient,"['almond', 'cashew']",flour,flour,q2_only,no,no,True,True,False,True,110,4
+martial art,olympic sport,"['judo', 'karate']",rowing,rowing,q2_only,no,no,True,True,False,True,111,0
+martial art,olympic sport,"['karate', 'kendo']",rowing,rowing,q2_only,no,no,True,True,False,True,111,1
+martial art,olympic sport,"['karate', 'sambo']",boxing,boxing,shared,yes,yes,True,True,True,False,111,2
+martial art,olympic sport,"['judo', 'sambo']",wrestling,wrestling,shared,yes,yes,True,True,True,False,111,3
+martial art,olympic sport,"['jiu jitsu', 'karate']",boxing,boxing,shared,yes,yes,True,True,True,False,111,4
+software application,google product,"['google maps', 'photoshop']",google drive,google drive,shared,yes,yes,True,True,True,False,112,0
+software application,google product,"['excel', 'youtube']",google drive,google drive,shared,yes,yes,True,True,True,False,112,1
+software application,google product,"['unity', 'photoshop']",google drive,google drive,shared,yes,yes,True,True,True,False,112,2
+software application,google product,"['spotify', 'youtube']",google drive,google drive,shared,yes,yes,True,True,True,False,112,3
+software application,google product,"['visual studio', 'unity']",google drive,google drive,shared,yes,yes,True,True,True,False,112,4
+condiment,sandwich ingredient,"['hoisin', 'mustard']",avocado,avocado,invalid,no,no,True,True,False,True,113,0
+condiment,sandwich ingredient,"['hot sauce', 'relish']",cheese,cheese,q2_only,no,no,True,True,False,True,113,1
+condiment,sandwich ingredient,"['sriracha', 'mustard']",avocado,avocado,invalid,no,no,True,True,False,True,113,2
+condiment,sandwich ingredient,"['hot sauce', 'mustard']",lettuce,lettuce,q2_only,no,no,True,True,False,True,113,3
+condiment,sandwich ingredient,"['ketchup', 'soy sauce']",mayo,mayo,shared,yes,yes,True,True,True,False,113,4
+amphibian,swamp animal,"['tree frog', 'toad']",alligator,alligator,q2_only,no,no,True,True,False,True,114,0
+amphibian,swamp animal,"['bullfrog', 'olm']",crocodile,crocodile,q2_only,no,no,True,True,False,True,114,1
+amphibian,swamp animal,"['frog', 'axolotl']",alligator,alligator,q2_only,no,no,True,True,False,True,114,2
+amphibian,swamp animal,"['water dog', 'toad']",crocodile,crocodile,q2_only,no,no,True,True,False,True,114,3
+amphibian,swamp animal,"['caecilian', 'poison dart frog']",alligator,alligator,q2_only,no,no,True,True,False,True,114,4
+gemstone,color,"['turquoise', 'diamond']",blue,blue,q2_only,no,no,True,True,False,True,115,0
+gemstone,color,"['amethyst', 'ruby']",purple,purple,q2_only,no,no,True,True,False,True,115,1
+gemstone,color,"['pearl', 'diamond']",white,white,q2_only,yes,yes,True,False,True,False,115,2
+gemstone,color,"['topaz', 'moonstone']",azure,azure,invalid,no,no,True,True,False,True,115,3
+gemstone,color,"['amethyst', 'amber']",purple,purple,q2_only,no,no,True,True,False,True,115,4
